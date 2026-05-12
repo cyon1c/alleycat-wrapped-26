@@ -1,0 +1,81 @@
+{
+  "id": "7379",
+  "name": "Oliver",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 3,
+  "losses": 7,
+  "winRate": 0.3,
+  "avgTime": 585.1,
+  "fastestTime": 273.0,
+  "slowestTime": 967.0,
+  "totalTimeSeconds": 5851.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "8035",
+    "name": "Bootleg ",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "1960",
+    "name": "J-Rock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8035",
+    "name": "Bootleg ",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8035",
+      "name": "Bootleg ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1960",
+      "name": "J-Rock",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3955",
+      "name": "Nuxx-B",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6159",
+      "name": "Relay",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8842",
+      "name": "Mr. Lim",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 541.3333333333334,
+  "globalRank": 112,
+  "roleRank": 49
+}

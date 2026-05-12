@@ -1,0 +1,81 @@
+{
+  "id": "9155",
+  "name": "nineVolt",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 6,
+  "losses": 5,
+  "winRate": 0.5454545454545454,
+  "avgTime": 494.72727272727275,
+  "fastestTime": 313.0,
+  "slowestTime": 1319.0,
+  "totalTimeSeconds": 5442.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "2642",
+    "name": "Loki",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "1318",
+    "name": "Kiwi",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1318",
+      "name": "Kiwi",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1911",
+      "name": "Crimson",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2642",
+      "name": "Loki",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 268.6666666666667,
+  "globalRank": 86,
+  "roleRank": 39
+}

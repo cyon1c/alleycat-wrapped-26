@@ -1,0 +1,67 @@
+{
+  "id": "1093",
+  "name": "Terry",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 2,
+  "losses": 5,
+  "winRate": 0.2857142857142857,
+  "avgTime": 618.8571428571429,
+  "fastestTime": 160.0,
+  "slowestTime": 1593.0,
+  "totalTimeSeconds": 4332.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "1178",
+    "name": "sundance kid",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.2857142857142857,
+  "avgMarginOfVictory": 381.5,
+  "globalRank": null,
+  "roleRank": null
+}

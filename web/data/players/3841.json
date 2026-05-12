@@ -1,0 +1,81 @@
+{
+  "id": "3841",
+  "name": "DDR",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 54,
+  "wins": 31,
+  "losses": 23,
+  "winRate": 0.5740740740740741,
+  "avgTime": 259.18518518518516,
+  "fastestTime": 6.0,
+  "slowestTime": 1854.0,
+  "totalTimeSeconds": 13996.0,
+  "longestWinStreak": 6,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 28,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "0177",
+    "name": "Nat-20-hunter",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 5,
+      "totalMatches": 7
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "0177",
+      "name": "Nat-20-hunter",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    },
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": 0.5740740740740741,
+  "avgMarginOfVictory": 362.0,
+  "globalRank": 26,
+  "roleRank": 12
+}

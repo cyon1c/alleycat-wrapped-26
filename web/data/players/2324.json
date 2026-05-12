@@ -1,0 +1,63 @@
+{
+  "id": "2324",
+  "name": "XAM TIGE",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 0,
+  "losses": 4,
+  "winRate": 0.0,
+  "avgTime": 683.0,
+  "fastestTime": 250.0,
+  "slowestTime": 1104.0,
+  "totalTimeSeconds": 2732.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0652",
+      "name": "Naile",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

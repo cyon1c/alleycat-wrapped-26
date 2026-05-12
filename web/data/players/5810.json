@@ -1,0 +1,60 @@
+{
+  "id": "5810",
+  "name": "Sparx",
+  "role": "hunter",
+  "faction": "CSL",
+  "totalMatches": 2,
+  "wins": 1,
+  "losses": 1,
+  "winRate": 0.5,
+  "avgTime": 407.5,
+  "fastestTime": 406.0,
+  "slowestTime": 409.0,
+  "totalTimeSeconds": 815.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "2642",
+    "name": "Loki",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "2642",
+    "name": "Loki",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "2642",
+      "name": "Loki",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 1725.0,
+  "globalRank": null,
+  "roleRank": null
+}

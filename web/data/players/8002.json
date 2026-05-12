@@ -1,0 +1,56 @@
+{
+  "id": "8002",
+  "name": "Sin",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 0,
+  "losses": 3,
+  "winRate": 0.0,
+  "avgTime": 363.0,
+  "fastestTime": 346.0,
+  "slowestTime": 374.0,
+  "totalTimeSeconds": 1089.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

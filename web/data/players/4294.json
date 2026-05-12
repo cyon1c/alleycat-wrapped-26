@@ -1,0 +1,81 @@
+{
+  "id": "4294",
+  "name": "Nev",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 2,
+  "losses": 8,
+  "winRate": 0.2,
+  "avgTime": 434.5,
+  "fastestTime": 32.0,
+  "slowestTime": 1010.0,
+  "totalTimeSeconds": 4345.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "1178",
+    "name": "sundance kid",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2476",
+      "name": "Moxie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.2,
+  "avgMarginOfVictory": 481.0,
+  "globalRank": 123,
+  "roleRank": 69
+}

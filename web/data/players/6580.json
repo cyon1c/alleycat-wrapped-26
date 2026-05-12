@@ -1,0 +1,49 @@
+{
+  "id": "6580",
+  "name": "1nk",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 1,
+  "wins": 0,
+  "losses": 1,
+  "winRate": 0.0,
+  "avgTime": 388.0,
+  "fastestTime": 388.0,
+  "slowestTime": 388.0,
+  "totalTimeSeconds": 388.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

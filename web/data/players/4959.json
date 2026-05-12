@@ -1,0 +1,67 @@
+{
+  "id": "4959",
+  "name": "Malia",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 1,
+  "losses": 2,
+  "winRate": 0.3333333333333333,
+  "avgTime": 702.6666666666666,
+  "fastestTime": 626.0,
+  "slowestTime": 800.0,
+  "totalTimeSeconds": 2108.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.3333333333333333,
+  "avgMarginOfVictory": 851.0,
+  "globalRank": null,
+  "roleRank": null
+}

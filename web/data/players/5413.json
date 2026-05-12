@@ -1,0 +1,70 @@
+{
+  "id": "5413",
+  "name": "CMDR Samtron Mox",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 5,
+  "losses": 0,
+  "winRate": 1.0,
+  "avgTime": 90.2,
+  "fastestTime": 55.0,
+  "slowestTime": 153.0,
+  "totalTimeSeconds": 451.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 0,
+  "currentStreak": {
+    "type": "win",
+    "count": 5
+  },
+  "uniqueOpponents": 4,
+  "nemesis": null,
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "1131",
+      "name": "Juliel",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": 1.0,
+  "avgMarginOfVictory": 179.2,
+  "globalRank": null,
+  "roleRank": null
+}

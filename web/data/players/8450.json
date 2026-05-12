@@ -1,0 +1,67 @@
+{
+  "id": "8450",
+  "name": "Koolaid",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 1,
+  "losses": 2,
+  "winRate": 0.3333333333333333,
+  "avgTime": 747.6666666666666,
+  "fastestTime": 366.0,
+  "slowestTime": 1065.0,
+  "totalTimeSeconds": 2243.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3578",
+    "name": "Talyn",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3578",
+      "name": "Talyn",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.3333333333333333,
+  "avgMarginOfVictory": 148.0,
+  "globalRank": null,
+  "roleRank": null
+}

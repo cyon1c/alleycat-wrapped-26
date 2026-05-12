@@ -1,0 +1,81 @@
+{
+  "id": "6179",
+  "name": "Bodak",
+  "role": "hunter",
+  "faction": "Dai Shi ki",
+  "totalMatches": 18,
+  "wins": 8,
+  "losses": 10,
+  "winRate": 0.4444444444444444,
+  "avgTime": 520.0555555555555,
+  "fastestTime": 196.0,
+  "slowestTime": 1270.0,
+  "totalTimeSeconds": 9361.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3841",
+      "name": "DDR",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 336.0,
+  "globalRank": 68,
+  "roleRank": 29
+}

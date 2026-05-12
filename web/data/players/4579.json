@@ -1,0 +1,63 @@
+{
+  "id": "4579",
+  "name": "Charon",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 0,
+  "losses": 5,
+  "winRate": 0.0,
+  "avgTime": 856.4,
+  "fastestTime": 554.0,
+  "slowestTime": 1371.0,
+  "totalTimeSeconds": 4282.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "4479",
+    "name": "HecksBug",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "4479",
+    "name": "HecksBug",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4479",
+      "name": "HecksBug",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

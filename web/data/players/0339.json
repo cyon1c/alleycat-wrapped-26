@@ -1,0 +1,81 @@
+{
+  "id": "0339",
+  "name": "Bugg.ie",
+  "role": "hunter",
+  "faction": "pegasus.exe",
+  "totalMatches": 81,
+  "wins": 41,
+  "losses": 40,
+  "winRate": 0.5061728395061729,
+  "avgTime": 396.8641975308642,
+  "fastestTime": 16.0,
+  "slowestTime": 2002.0,
+  "totalTimeSeconds": 32146.0,
+  "longestWinStreak": 7,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 13,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 11
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 13
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 24
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 13,
+      "losses": 11,
+      "totalMatches": 24
+    },
+    {
+      "id": "4842",
+      "name": "s3rv0-ai",
+      "wins": 10,
+      "losses": 5,
+      "totalMatches": 15
+    },
+    {
+      "id": "0362",
+      "name": "bubblez",
+      "wins": 8,
+      "losses": 6,
+      "totalMatches": 14
+    },
+    {
+      "id": "2690",
+      "name": "Chasm",
+      "wins": 2,
+      "losses": 5,
+      "totalMatches": 7
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4444444444444444,
+    "lateWinRate": 0.5555555555555556
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 368.8292682926829,
+  "globalRank": 23,
+  "roleRank": 13
+}

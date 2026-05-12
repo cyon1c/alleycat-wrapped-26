@@ -1,0 +1,81 @@
+{
+  "id": "2318",
+  "name": "Hijax",
+  "role": "hunter",
+  "faction": "The 13s",
+  "totalMatches": 14,
+  "wins": 2,
+  "losses": 12,
+  "winRate": 0.14285714285714285,
+  "avgTime": 596.5714285714286,
+  "fastestTime": 185.0,
+  "slowestTime": 1410.0,
+  "totalTimeSeconds": 8352.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 9
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "0738",
+    "name": "Mettrix",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "4509",
+    "name": "Gh0st",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0738",
+    "name": "Mettrix",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "0738",
+      "name": "Mettrix",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4509",
+      "name": "Gh0st",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 168.0,
+  "globalRank": 123,
+  "roleRank": 55
+}

@@ -1,0 +1,81 @@
+{
+  "id": "4814",
+  "name": "Y ",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 1,
+  "losses": 6,
+  "winRate": 0.14285714285714285,
+  "avgTime": 1016.2857142857143,
+  "fastestTime": 848.0,
+  "slowestTime": 1303.0,
+  "totalTimeSeconds": 7114.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6153",
+    "name": "ARK-IV",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6153",
+    "name": "ARK-IV",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "6153",
+      "name": "ARK-IV",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2640",
+      "name": "R3D",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6170",
+      "name": "3M1L7",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 762.0,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2640",
+  "name": "R3D",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 28,
+  "wins": 13,
+  "losses": 15,
+  "winRate": 0.4642857142857143,
+  "avgTime": 380.60714285714283,
+  "fastestTime": 42.0,
+  "slowestTime": 1168.0,
+  "totalTimeSeconds": 10657.0,
+  "longestWinStreak": 11,
+  "longestLossStreak": 11,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 17,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 8,
+      "totalMatches": 9
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0171",
+      "name": "Pollux-hunter",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.7777777777777778,
+    "lateWinRate": 0.1111111111111111
+  },
+  "escapeRate": 0.4642857142857143,
+  "avgMarginOfVictory": 403.15384615384613,
+  "globalRank": 48,
+  "roleRank": 25
+}

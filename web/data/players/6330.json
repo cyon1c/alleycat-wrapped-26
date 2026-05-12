@@ -1,0 +1,74 @@
+{
+  "id": "6330",
+  "name": "Krieg",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 1,
+  "losses": 5,
+  "winRate": 0.16666666666666666,
+  "avgTime": 693.0,
+  "fastestTime": 340.0,
+  "slowestTime": 1115.0,
+  "totalTimeSeconds": 4158.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "9090",
+    "name": "M3M0",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9090",
+      "name": "M3M0",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 712.0,
+  "globalRank": null,
+  "roleRank": null
+}

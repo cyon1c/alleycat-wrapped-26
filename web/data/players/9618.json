@@ -1,0 +1,81 @@
+{
+  "id": "9618",
+  "name": "Satyr_1",
+  "role": "hunter",
+  "faction": "Revelry",
+  "totalMatches": 20,
+  "wins": 8,
+  "losses": 12,
+  "winRate": 0.4,
+  "avgTime": 597.15,
+  "fastestTime": 192.0,
+  "slowestTime": 1919.0,
+  "totalTimeSeconds": 11943.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "8901",
+    "name": "Vell",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0431",
+    "name": "ceph",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0636",
+      "name": "Ramona",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "0942",
+      "name": "Rathe ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 353.75,
+  "globalRank": 68,
+  "roleRank": 29
+}

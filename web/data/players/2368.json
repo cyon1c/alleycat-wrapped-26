@@ -1,0 +1,81 @@
+{
+  "id": "2368",
+  "name": "Skitz",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 26,
+  "wins": 9,
+  "losses": 17,
+  "winRate": 0.34615384615384615,
+  "avgTime": 528.3461538461538,
+  "fastestTime": 116.0,
+  "slowestTime": 1309.0,
+  "totalTimeSeconds": 13737.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 15,
+  "nemesis": {
+    "id": "6735",
+    "name": "Cayde",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "5024",
+    "name": "Lag",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8901",
+    "name": "Vell",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "5024",
+      "name": "Lag",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 401.1111111111111,
+  "globalRank": 59,
+  "roleRank": 27
+}

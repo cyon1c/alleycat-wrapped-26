@@ -1,0 +1,81 @@
+{
+  "id": "6153",
+  "name": "ARK-IV",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 16,
+  "wins": 2,
+  "losses": 14,
+  "winRate": 0.125,
+  "avgTime": 812.25,
+  "fastestTime": 338.0,
+  "slowestTime": 1784.0,
+  "totalTimeSeconds": 12996.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 13,
+  "currentStreak": {
+    "type": "loss",
+    "count": 13
+  },
+  "uniqueOpponents": 12,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "3578",
+    "name": "Talyn",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4814",
+      "name": "Y ",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.125,
+  "avgMarginOfVictory": 485.5,
+  "globalRank": 123,
+  "roleRank": 69
+}

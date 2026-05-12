@@ -1,0 +1,81 @@
+{
+  "id": "0431",
+  "name": "ceph",
+  "role": "bounty",
+  "faction": "exus",
+  "totalMatches": 122,
+  "wins": 64,
+  "losses": 58,
+  "winRate": 0.5245901639344263,
+  "avgTime": 362.43333333333334,
+  "fastestTime": 17.0,
+  "slowestTime": 1747.0,
+  "totalTimeSeconds": 43492.0,
+  "longestWinStreak": 7,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 38,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 20
+  },
+  "prey": {
+    "id": "3823",
+    "name": "T4STY",
+    "winsAgainst": 9
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 22
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 20,
+      "totalMatches": 22
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 9,
+      "losses": 8,
+      "totalMatches": 17
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 8,
+      "totalMatches": 10
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 4,
+      "losses": 6,
+      "totalMatches": 10
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 3,
+      "losses": 5,
+      "totalMatches": 8
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.5245901639344263,
+  "avgMarginOfVictory": 335.7903225806452,
+  "globalRank": 16,
+  "roleRank": 9
+}

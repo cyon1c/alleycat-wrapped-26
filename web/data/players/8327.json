@@ -1,0 +1,33 @@
+{
+  "id": "8327",
+  "name": "Secondary",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 0,
+  "wins": 0,
+  "losses": 0,
+  "winRate": 0.0,
+  "avgTime": null,
+  "fastestTime": null,
+  "slowestTime": null,
+  "totalTimeSeconds": 0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 0,
+  "currentStreak": {
+    "type": "none",
+    "count": 0
+  },
+  "uniqueOpponents": 0,
+  "nemesis": null,
+  "prey": null,
+  "rival": null,
+  "topOpponents": [],
+  "performanceArc": {
+    "earlyWinRate": null,
+    "lateWinRate": null
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

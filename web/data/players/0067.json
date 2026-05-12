@@ -1,0 +1,77 @@
+{
+  "id": "0067",
+  "name": "GHOST",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 0,
+  "losses": 6,
+  "winRate": 0.0,
+  "avgTime": 675.0,
+  "fastestTime": 497.0,
+  "slowestTime": 952.0,
+  "totalTimeSeconds": 4050.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2145",
+      "name": "Z-kay",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9554",
+      "name": "Notto",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

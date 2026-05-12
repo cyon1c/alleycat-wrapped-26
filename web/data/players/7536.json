@@ -1,0 +1,81 @@
+{
+  "id": "7536",
+  "name": "Golden",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 93,
+  "wins": 68,
+  "losses": 25,
+  "winRate": 0.7311827956989247,
+  "avgTime": 267.2967032967033,
+  "fastestTime": 15.0,
+  "slowestTime": 2027.0,
+  "totalTimeSeconds": 24324.0,
+  "longestWinStreak": 11,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 27,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "3890",
+    "name": "J dubbz",
+    "winsAgainst": 29
+  },
+  "rival": {
+    "id": "3890",
+    "name": "J dubbz",
+    "totalMatches": 33
+  },
+  "topOpponents": [
+    {
+      "id": "3890",
+      "name": "J dubbz",
+      "wins": 29,
+      "losses": 4,
+      "totalMatches": 33
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 6,
+      "losses": 4,
+      "totalMatches": 10
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 4,
+      "losses": 3,
+      "totalMatches": 7
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 4,
+      "losses": 1,
+      "totalMatches": 5
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.7096774193548387,
+    "lateWinRate": 0.7741935483870968
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 391.17910447761193,
+  "globalRank": 15,
+  "roleRank": 7
+}

@@ -1,0 +1,81 @@
+{
+  "id": "4665",
+  "name": "Shedd",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 30,
+  "wins": 17,
+  "losses": 13,
+  "winRate": 0.5666666666666667,
+  "avgTime": 328.82758620689657,
+  "fastestTime": 30.0,
+  "slowestTime": 1179.0,
+  "totalTimeSeconds": 9536.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 17,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6448",
+      "name": "D0g",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6,
+    "lateWinRate": 0.6
+  },
+  "escapeRate": 0.5666666666666667,
+  "avgMarginOfVictory": 421.25,
+  "globalRank": 39,
+  "roleRank": 17
+}

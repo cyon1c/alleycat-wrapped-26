@@ -1,0 +1,81 @@
+{
+  "id": "1842",
+  "name": "cL17+3r",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 17,
+  "wins": 6,
+  "losses": 11,
+  "winRate": 0.35294117647058826,
+  "avgTime": 526.7647058823529,
+  "fastestTime": 208.0,
+  "slowestTime": 1907.0,
+  "totalTimeSeconds": 8955.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 4,
+      "totalMatches": 6
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": 0.35294117647058826,
+  "avgMarginOfVictory": 531.0,
+  "globalRank": 86,
+  "roleRank": 48
+}

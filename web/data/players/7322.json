@@ -1,0 +1,81 @@
+{
+  "id": "7322",
+  "name": "James",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 2,
+  "losses": 7,
+  "winRate": 0.2222222222222222,
+  "avgTime": 561.2222222222222,
+  "fastestTime": 323.0,
+  "slowestTime": 993.0,
+  "totalTimeSeconds": 5051.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "2584",
+    "name": "Lux",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2584",
+      "name": "Lux",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6392",
+      "name": "Zeus",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.2222222222222222,
+  "avgMarginOfVictory": 128.5,
+  "globalRank": null,
+  "roleRank": null
+}

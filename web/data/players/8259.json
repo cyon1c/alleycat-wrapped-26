@@ -1,0 +1,70 @@
+{
+  "id": "8259",
+  "name": "Hazard",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 0,
+  "losses": 5,
+  "winRate": 0.0,
+  "avgTime": 911.4,
+  "fastestTime": 771.0,
+  "slowestTime": 1135.0,
+  "totalTimeSeconds": 4557.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "3823",
+    "name": "T4STY",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "3823",
+    "name": "T4STY",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8710",
+      "name": "Winter Spike",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

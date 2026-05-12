@@ -1,0 +1,81 @@
+{
+  "id": "4247",
+  "name": "0-Syris",
+  "role": "hunter",
+  "faction": "Oricon",
+  "totalMatches": 8,
+  "wins": 2,
+  "losses": 6,
+  "winRate": 0.25,
+  "avgTime": 363.625,
+  "fastestTime": 112.0,
+  "slowestTime": 763.0,
+  "totalTimeSeconds": 2909.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0644",
+    "name": "Coyote ",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6735",
+    "name": "Cayde",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0644",
+      "name": "Coyote ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5024",
+      "name": "Lag",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 440.0,
+  "globalRank": null,
+  "roleRank": null
+}

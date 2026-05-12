@@ -1,0 +1,81 @@
+{
+  "id": "0864",
+  "name": "Red.AI",
+  "role": "bounty",
+  "faction": "Exus",
+  "totalMatches": 15,
+  "wins": 4,
+  "losses": 11,
+  "winRate": 0.26666666666666666,
+  "avgTime": 463.46666666666664,
+  "fastestTime": 210.0,
+  "slowestTime": 646.0,
+  "totalTimeSeconds": 6952.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "0177",
+    "name": "Nat-20-hunter",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "0177",
+      "name": "Nat-20-hunter",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": 0.26666666666666666,
+  "avgMarginOfVictory": 1430.75,
+  "globalRank": 104,
+  "roleRank": 58
+}

@@ -1,0 +1,23 @@
+# Vercel
+.vercel
+
+# Node
+node_modules/
+package-lock.json
+
+# Raw data exports (potentially sensitive player data)
+csv-exports/
+alleycat-26-final-results/
+alleycat-26-final-results.7z
+
+# Generated stats (re-run generatePlayerStats.py to rebuild)
+stats-output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

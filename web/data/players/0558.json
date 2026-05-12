@@ -1,0 +1,81 @@
+{
+  "id": "0558",
+  "name": "Aria ",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 27,
+  "wins": 5,
+  "losses": 22,
+  "winRate": 0.18518518518518517,
+  "avgTime": 916.8148148148148,
+  "fastestTime": 290.0,
+  "slowestTime": 1809.0,
+  "totalTimeSeconds": 24754.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 11,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "2529",
+    "name": "Orion ",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "2529",
+    "name": "Orion ",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "2529",
+    "name": "Orion ",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "2529",
+      "name": "Orion ",
+      "wins": 5,
+      "losses": 6,
+      "totalMatches": 11
+    },
+    {
+      "id": "6567",
+      "name": "Mikey Miles ",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2222222222222222,
+    "lateWinRate": 0.2222222222222222
+  },
+  "escapeRate": 0.18518518518518517,
+  "avgMarginOfVictory": 360.6,
+  "globalRank": 95,
+  "roleRank": 53
+}

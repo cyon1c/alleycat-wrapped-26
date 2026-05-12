@@ -1,0 +1,81 @@
+{
+  "id": "2273",
+  "name": "Jack-52",
+  "role": "bounty",
+  "faction": "Albatross",
+  "totalMatches": 29,
+  "wins": 15,
+  "losses": 14,
+  "winRate": 0.5172413793103449,
+  "avgTime": 328.48275862068965,
+  "fastestTime": 19.0,
+  "slowestTime": 1236.0,
+  "totalTimeSeconds": 9526.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 16,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3823",
+    "name": "T4STY",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    },
+    {
+      "id": "7821",
+      "name": "Grav Bomb",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "8436",
+      "name": "Rusty",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.4444444444444444
+  },
+  "escapeRate": 0.5172413793103449,
+  "avgMarginOfVictory": 399.46666666666664,
+  "globalRank": 43,
+  "roleRank": 21
+}

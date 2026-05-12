@@ -1,0 +1,81 @@
+{
+  "id": "8187",
+  "name": "Rascal",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 53,
+  "wins": 16,
+  "losses": 37,
+  "winRate": 0.3018867924528302,
+  "avgTime": 499.078431372549,
+  "fastestTime": 22.0,
+  "slowestTime": 2110.0,
+  "totalTimeSeconds": 25453.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 20,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 9
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 4
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 9,
+      "totalMatches": 9
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 4,
+      "losses": 4,
+      "totalMatches": 8
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 6,
+      "totalMatches": 8
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 5,
+      "totalMatches": 6
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.23529411764705882,
+    "lateWinRate": 0.23529411764705882
+  },
+  "escapeRate": 0.3018867924528302,
+  "avgMarginOfVictory": 331.2,
+  "globalRank": 40,
+  "roleRank": 18
+}

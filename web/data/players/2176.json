@@ -1,0 +1,81 @@
+{
+  "id": "2176",
+  "name": "Seeeeeean",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 15,
+  "wins": 3,
+  "losses": 12,
+  "winRate": 0.2,
+  "avgTime": 553.2666666666667,
+  "fastestTime": 250.0,
+  "slowestTime": 1062.0,
+  "totalTimeSeconds": 8299.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0636",
+    "name": "Ramona",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "9303",
+      "name": "Jackal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 366.6666666666667,
+  "globalRank": 112,
+  "roleRank": 49
+}

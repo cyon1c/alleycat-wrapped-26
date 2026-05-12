@@ -1,0 +1,81 @@
+{
+  "id": "3415",
+  "name": "Hot-Lock",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 568,
+  "wins": 439,
+  "losses": 129,
+  "winRate": 0.772887323943662,
+  "avgTime": 217.85026737967914,
+  "fastestTime": 8.0,
+  "slowestTime": 3013.0,
+  "totalTimeSeconds": 122214.0,
+  "longestWinStreak": 68,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 130,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 30
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 23
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 53
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 23,
+      "losses": 30,
+      "totalMatches": 53
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 22,
+      "losses": 12,
+      "totalMatches": 34
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 23,
+      "losses": 10,
+      "totalMatches": 33
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 13,
+      "losses": 7,
+      "totalMatches": 20
+    },
+    {
+      "id": "5049",
+      "name": "Striga",
+      "wins": 8,
+      "losses": 7,
+      "totalMatches": 15
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8518518518518519,
+    "lateWinRate": 0.671957671957672
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 420.80045871559633,
+  "globalRank": 2,
+  "roleRank": 2
+}

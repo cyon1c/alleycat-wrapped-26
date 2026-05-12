@@ -1,0 +1,81 @@
+{
+  "id": "8001",
+  "name": "Mike Gyver",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 6,
+  "losses": 3,
+  "winRate": 0.6666666666666666,
+  "avgTime": 587.3333333333334,
+  "fastestTime": 130.0,
+  "slowestTime": 1562.0,
+  "totalTimeSeconds": 5286.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2476",
+      "name": "Moxie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": 0.6666666666666666,
+  "avgMarginOfVictory": 460.1666666666667,
+  "globalRank": null,
+  "roleRank": null
+}

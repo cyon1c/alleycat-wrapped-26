@@ -1,0 +1,81 @@
+{
+  "id": "3518",
+  "name": "Hi-Fi",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 182,
+  "wins": 72,
+  "losses": 110,
+  "winRate": 0.3956043956043956,
+  "avgTime": 451.0,
+  "fastestTime": 146.0,
+  "slowestTime": 2149.0,
+  "totalTimeSeconds": 80729.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 12,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 41,
+  "nemesis": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "lossesTo": 57
+  },
+  "prey": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "winsAgainst": 28
+  },
+  "rival": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "totalMatches": 85
+  },
+  "topOpponents": [
+    {
+      "id": "4302",
+      "name": "Disco Bastard",
+      "wins": 28,
+      "losses": 57,
+      "totalMatches": 85
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 7,
+      "losses": 14,
+      "totalMatches": 21
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 6,
+      "losses": 14,
+      "totalMatches": 20
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 3,
+      "losses": 2,
+      "totalMatches": 5
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.43333333333333335,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 363.1159420289855,
+  "globalRank": 13,
+  "roleRank": 6
+}

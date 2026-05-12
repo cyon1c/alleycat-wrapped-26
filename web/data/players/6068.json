@@ -1,0 +1,67 @@
+{
+  "id": "6068",
+  "name": "LT",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 3,
+  "losses": 1,
+  "winRate": 0.75,
+  "avgTime": 650.25,
+  "fastestTime": 431.0,
+  "slowestTime": 896.0,
+  "totalTimeSeconds": 2601.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "0177",
+    "name": "Nat-20-hunter",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3040",
+    "name": "Solar",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3040",
+    "name": "Solar",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3040",
+      "name": "Solar",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0177",
+      "name": "Nat-20-hunter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.75,
+  "avgMarginOfVictory": 145.0,
+  "globalRank": null,
+  "roleRank": null
+}

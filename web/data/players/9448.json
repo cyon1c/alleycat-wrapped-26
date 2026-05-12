@@ -1,0 +1,81 @@
+{
+  "id": "9448",
+  "name": "piper",
+  "role": "bounty",
+  "faction": "the brand",
+  "totalMatches": 33,
+  "wins": 13,
+  "losses": 20,
+  "winRate": 0.3939393939393939,
+  "avgTime": 434.46875,
+  "fastestTime": 11.0,
+  "slowestTime": 3114.0,
+  "totalTimeSeconds": 13903.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 15,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 3,
+      "losses": 6,
+      "totalMatches": 9
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "2145",
+      "name": "Z-kay",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.45454545454545453,
+    "lateWinRate": 0.18181818181818182
+  },
+  "escapeRate": 0.3939393939393939,
+  "avgMarginOfVictory": 405.2307692307692,
+  "globalRank": 48,
+  "roleRank": 25
+}

@@ -1,0 +1,74 @@
+{
+  "id": "6524",
+  "name": "Lyra",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 1,
+  "losses": 3,
+  "winRate": 0.25,
+  "avgTime": 851.75,
+  "fastestTime": 453.0,
+  "slowestTime": 1231.0,
+  "totalTimeSeconds": 3407.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "5663",
+    "name": "Duckie",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6862",
+    "name": "Xor0",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5663",
+    "name": "Duckie",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6862",
+      "name": "Xor0",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7793",
+      "name": "Jaxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.25,
+  "avgMarginOfVictory": 376.0,
+  "globalRank": null,
+  "roleRank": null
+}

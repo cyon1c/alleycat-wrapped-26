@@ -1,0 +1,81 @@
+{
+  "id": "1130",
+  "name": "Pal",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 5,
+  "losses": 6,
+  "winRate": 0.45454545454545453,
+  "avgTime": 436.72727272727275,
+  "fastestTime": 158.0,
+  "slowestTime": 929.0,
+  "totalTimeSeconds": 4804.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "5663",
+    "name": "Duckie",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5663",
+    "name": "Duckie",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3013",
+      "name": "Ace M",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.45454545454545453,
+  "avgMarginOfVictory": 467.2,
+  "globalRank": 95,
+  "roleRank": 53
+}

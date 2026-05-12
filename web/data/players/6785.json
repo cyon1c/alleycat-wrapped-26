@@ -1,0 +1,81 @@
+{
+  "id": "6785",
+  "name": "Bank",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 14,
+  "wins": 6,
+  "losses": 8,
+  "winRate": 0.42857142857142855,
+  "avgTime": 413.7142857142857,
+  "fastestTime": 226.0,
+  "slowestTime": 665.0,
+  "totalTimeSeconds": 5792.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "9880",
+    "name": "Copper",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "9880",
+    "name": "Copper",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "9880",
+      "name": "Copper",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.75
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 469.0,
+  "globalRank": 86,
+  "roleRank": 39
+}

@@ -1,0 +1,81 @@
+{
+  "id": "6448",
+  "name": "D0g",
+  "role": "hunter",
+  "faction": "obscurity",
+  "totalMatches": 13,
+  "wins": 5,
+  "losses": 8,
+  "winRate": 0.38461538461538464,
+  "avgTime": 474.38461538461536,
+  "fastestTime": 191.0,
+  "slowestTime": 1603.0,
+  "totalTimeSeconds": 6167.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "1324",
+    "name": "Shakes",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "9246",
+      "name": "7imber",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1324",
+      "name": "Shakes",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8035",
+      "name": "Bootleg ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 216.8,
+  "globalRank": 95,
+  "roleRank": 43
+}

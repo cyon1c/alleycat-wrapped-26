@@ -1,0 +1,81 @@
+{
+  "id": "6127",
+  "name": "Axiøm",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 17,
+  "wins": 7,
+  "losses": 10,
+  "winRate": 0.4117647058823529,
+  "avgTime": 370.29411764705884,
+  "fastestTime": 49.0,
+  "slowestTime": 1031.0,
+  "totalTimeSeconds": 6295.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "1178",
+    "name": "sundance kid",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "1178",
+    "name": "sundance kid",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3578",
+      "name": "Talyn",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.4117647058823529,
+  "avgMarginOfVictory": 614.5714285714286,
+  "globalRank": 76,
+  "roleRank": 43
+}

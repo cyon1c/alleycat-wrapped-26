@@ -1,0 +1,74 @@
+{
+  "id": "1320",
+  "name": "#0C0DE6",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 3,
+  "losses": 1,
+  "winRate": 0.75,
+  "avgTime": 324.0,
+  "fastestTime": 103.0,
+  "slowestTime": 878.0,
+  "totalTimeSeconds": 1296.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0436",
+    "name": "felis stray",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.75,
+  "avgMarginOfVictory": 386.3333333333333,
+  "globalRank": null,
+  "roleRank": null
+}

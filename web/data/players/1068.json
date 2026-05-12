@@ -1,0 +1,49 @@
+{
+  "id": "1068",
+  "name": "Ko6his",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 1,
+  "wins": 0,
+  "losses": 1,
+  "winRate": 0.0,
+  "avgTime": 579.0,
+  "fastestTime": 579.0,
+  "slowestTime": 579.0,
+  "totalTimeSeconds": 579.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

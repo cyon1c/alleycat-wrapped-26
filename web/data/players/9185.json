@@ -1,0 +1,74 @@
+{
+  "id": "9185",
+  "name": "recursion",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 1,
+  "losses": 3,
+  "winRate": 0.25,
+  "avgTime": 656.75,
+  "fastestTime": 404.0,
+  "slowestTime": 903.0,
+  "totalTimeSeconds": 2627.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "1178",
+    "name": "sundance kid",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1178",
+    "name": "sundance kid",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.25,
+  "avgMarginOfVictory": 130.0,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "9548",
+  "name": "Widget",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 13,
+  "wins": 3,
+  "losses": 10,
+  "winRate": 0.23076923076923078,
+  "avgTime": 687.0769230769231,
+  "fastestTime": 330.0,
+  "slowestTime": 1314.0,
+  "totalTimeSeconds": 8932.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "0942",
+    "name": "Rathe ",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "0942",
+    "name": "Rathe ",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0942",
+    "name": "Rathe ",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "0942",
+      "name": "Rathe ",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "3890",
+      "name": "J dubbz",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5494",
+      "name": "Artemis",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6170",
+      "name": "3M1L7",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.25
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 499.3333333333333,
+  "globalRank": 112,
+  "roleRank": 49
+}

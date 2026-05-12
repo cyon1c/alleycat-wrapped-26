@@ -1,0 +1,81 @@
+{
+  "id": "1118",
+  "name": "Alex",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 2,
+  "losses": 4,
+  "winRate": 0.3333333333333333,
+  "avgTime": 446.1666666666667,
+  "fastestTime": 251.0,
+  "slowestTime": 794.0,
+  "totalTimeSeconds": 2677.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "0436",
+    "name": "felis stray",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5663",
+    "name": "Duckie",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0436",
+    "name": "felis stray",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7603",
+      "name": "Otirik",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.3333333333333333,
+  "avgMarginOfVictory": 670.5,
+  "globalRank": null,
+  "roleRank": null
+}

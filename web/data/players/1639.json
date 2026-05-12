@@ -1,0 +1,70 @@
+{
+  "id": "1639",
+  "name": "Mr. Fahrenheit",
+  "role": "bounty",
+  "faction": "451 Heavy Industries",
+  "totalMatches": 4,
+  "wins": 0,
+  "losses": 4,
+  "winRate": 0.0,
+  "avgTime": 472.0,
+  "fastestTime": 378.0,
+  "slowestTime": 596.0,
+  "totalTimeSeconds": 1888.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "0436",
+    "name": "felis stray",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "0436",
+    "name": "felis stray",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

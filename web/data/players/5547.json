@@ -1,0 +1,74 @@
+{
+  "id": "5547",
+  "name": "Mika",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 4,
+  "wins": 1,
+  "losses": 3,
+  "winRate": 0.25,
+  "avgTime": 258.5,
+  "fastestTime": 72.0,
+  "slowestTime": 363.0,
+  "totalTimeSeconds": 1034.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "2403",
+    "name": "B Panik",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "2403",
+    "name": "B Panik",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "2403",
+      "name": "B Panik",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4302",
+      "name": "Disco Bastard",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 175.0,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2464",
+  "name": "PartTim3r",
+  "role": "hunter",
+  "faction": "uranium arcadium",
+  "totalMatches": 2,
+  "wins": 0,
+  "losses": 2,
+  "winRate": 0.0,
+  "avgTime": 599.5,
+  "fastestTime": 436.0,
+  "slowestTime": 763.0,
+  "totalTimeSeconds": 1199.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "4302",
+      "name": "Disco Bastard",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

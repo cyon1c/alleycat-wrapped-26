@@ -1,0 +1,81 @@
+{
+  "id": "3013",
+  "name": "Ace M",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 16,
+  "wins": 7,
+  "losses": 9,
+  "winRate": 0.4375,
+  "avgTime": 338.125,
+  "fastestTime": 17.0,
+  "slowestTime": 873.0,
+  "totalTimeSeconds": 5410.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 12,
+  "nemesis": {
+    "id": "6735",
+    "name": "Cayde",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2047",
+    "name": "Guard Dog",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "4654",
+      "name": "C-L13",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1130",
+      "name": "Pal",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1960",
+      "name": "J-Rock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 432.85714285714283,
+  "globalRank": 76,
+  "roleRank": 34
+}

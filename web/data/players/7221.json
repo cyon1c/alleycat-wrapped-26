@@ -1,0 +1,81 @@
+{
+  "id": "7221",
+  "name": "Nexus",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 57,
+  "wins": 22,
+  "losses": 35,
+  "winRate": 0.38596491228070173,
+  "avgTime": 320.4,
+  "fastestTime": 18.0,
+  "slowestTime": 1085.0,
+  "totalTimeSeconds": 17622.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 23,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 12
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 14
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 12,
+      "totalMatches": 14
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 9,
+      "totalMatches": 11
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3157894736842105,
+    "lateWinRate": 0.3684210526315789
+  },
+  "escapeRate": 0.38596491228070173,
+  "avgMarginOfVictory": 674.25,
+  "globalRank": 31,
+  "roleRank": 15
+}

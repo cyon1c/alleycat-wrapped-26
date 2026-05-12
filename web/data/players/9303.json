@@ -1,0 +1,81 @@
+{
+  "id": "9303",
+  "name": "Jackal",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 45,
+  "wins": 31,
+  "losses": 14,
+  "winRate": 0.6888888888888889,
+  "avgTime": 271.1333333333333,
+  "fastestTime": 49.0,
+  "slowestTime": 1356.0,
+  "totalTimeSeconds": 12201.0,
+  "longestWinStreak": 7,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 19,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 12
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 5,
+      "losses": 7,
+      "totalMatches": 12
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 4,
+      "losses": 1,
+      "totalMatches": 5
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "8722",
+      "name": "Pink Sheep",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8,
+    "lateWinRate": 0.6
+  },
+  "escapeRate": 0.6888888888888889,
+  "avgMarginOfVictory": 282.5806451612903,
+  "globalRank": 26,
+  "roleRank": 12
+}

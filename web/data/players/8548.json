@@ -1,0 +1,60 @@
+{
+  "id": "8548",
+  "name": "nos3bl33d",
+  "role": "bounty",
+  "faction": "alleycat",
+  "totalMatches": 2,
+  "wins": 1,
+  "losses": 1,
+  "winRate": 0.5,
+  "avgTime": 371.0,
+  "fastestTime": 341.0,
+  "slowestTime": 401.0,
+  "totalTimeSeconds": 742.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "6386",
+    "name": "Mippy",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "8804",
+    "name": "Hacter",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6386",
+    "name": "Mippy",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "6386",
+      "name": "Mippy",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8804",
+      "name": "Hacter",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.5,
+  "avgMarginOfVictory": 492.0,
+  "globalRank": null,
+  "roleRank": null
+}

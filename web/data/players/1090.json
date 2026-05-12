@@ -1,0 +1,81 @@
+{
+  "id": "1090",
+  "name": "Capt Timmah",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 148,
+  "wins": 71,
+  "losses": 77,
+  "winRate": 0.4797297297297297,
+  "avgTime": 365.0890410958904,
+  "fastestTime": 8.0,
+  "slowestTime": 2412.0,
+  "totalTimeSeconds": 53303.0,
+  "longestWinStreak": 7,
+  "longestLossStreak": 12,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 39,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 20
+  },
+  "prey": {
+    "id": "0817",
+    "name": "JayKaze",
+    "winsAgainst": 8
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 24
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 4,
+      "losses": 20,
+      "totalMatches": 24
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 7,
+      "losses": 13,
+      "totalMatches": 20
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 2,
+      "losses": 6,
+      "totalMatches": 8
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 8,
+      "losses": 0,
+      "totalMatches": 8
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 4,
+      "losses": 3,
+      "totalMatches": 7
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3673469387755102,
+    "lateWinRate": 0.5918367346938775
+  },
+  "escapeRate": 0.4797297297297297,
+  "avgMarginOfVictory": 364.1159420289855,
+  "globalRank": 14,
+  "roleRank": 8
+}

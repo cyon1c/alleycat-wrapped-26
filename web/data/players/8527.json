@@ -1,0 +1,81 @@
+{
+  "id": "8527",
+  "name": "mr. red",
+  "role": "bounty",
+  "faction": "obscurity",
+  "totalMatches": 15,
+  "wins": 6,
+  "losses": 9,
+  "winRate": 0.4,
+  "avgTime": 413.93333333333334,
+  "fastestTime": 55.0,
+  "slowestTime": 1001.0,
+  "totalTimeSeconds": 6209.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0652",
+      "name": "Naile",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 341.8333333333333,
+  "globalRank": 86,
+  "roleRank": 48
+}

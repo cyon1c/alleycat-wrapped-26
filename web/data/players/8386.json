@@ -1,0 +1,81 @@
+{
+  "id": "8386",
+  "name": "Teck-eee!",
+  "role": "hunter",
+  "faction": "nightcrawlers",
+  "totalMatches": 19,
+  "wins": 2,
+  "losses": 17,
+  "winRate": 0.10526315789473684,
+  "avgTime": 777.75,
+  "fastestTime": 364.0,
+  "slowestTime": 2830.0,
+  "totalTimeSeconds": 12444.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 10,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "0431",
+    "name": "ceph",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4509",
+      "name": "Gh0st",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 724.0,
+  "globalRank": 123,
+  "roleRank": 55
+}

@@ -1,0 +1,60 @@
+{
+  "id": "5949",
+  "name": "Goldrina",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 2,
+  "wins": 1,
+  "losses": 1,
+  "winRate": 0.5,
+  "avgTime": 838.5,
+  "fastestTime": 623.0,
+  "slowestTime": 1054.0,
+  "totalTimeSeconds": 1677.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5700",
+    "name": "Trip",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5700",
+      "name": "Trip",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 97.0,
+  "globalRank": null,
+  "roleRank": null
+}

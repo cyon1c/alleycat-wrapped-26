@@ -1,0 +1,81 @@
+{
+  "id": "2145",
+  "name": "Z-kay",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 37,
+  "wins": 7,
+  "losses": 30,
+  "winRate": 0.1891891891891892,
+  "avgTime": 567.6216216216217,
+  "fastestTime": 163.0,
+  "slowestTime": 2061.0,
+  "totalTimeSeconds": 21002.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 19,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "8901",
+    "name": "Vell",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8901",
+    "name": "Vell",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 2,
+      "losses": 4,
+      "totalMatches": 6
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "9637",
+      "name": "The Herold Of The Cult Of The Space Pineapple God",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.16666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 292.0,
+  "globalRank": 76,
+  "roleRank": 34
+}

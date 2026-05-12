@@ -1,0 +1,81 @@
+{
+  "id": "1222",
+  "name": "Serah",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 2,
+  "losses": 9,
+  "winRate": 0.18181818181818182,
+  "avgTime": 614.9090909090909,
+  "fastestTime": 226.0,
+  "slowestTime": 1101.0,
+  "totalTimeSeconds": 6764.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 4,
+      "totalMatches": 6
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1928",
+      "name": "Kilunspre",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.18181818181818182,
+  "avgMarginOfVictory": 822.5,
+  "globalRank": 123,
+  "roleRank": 69
+}

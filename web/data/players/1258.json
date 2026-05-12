@@ -1,0 +1,67 @@
+{
+  "id": "1258",
+  "name": "handler",
+  "role": "hunter",
+  "faction": "kaiju",
+  "totalMatches": 5,
+  "wins": 1,
+  "losses": 4,
+  "winRate": 0.2,
+  "avgTime": 400.0,
+  "fastestTime": 184.0,
+  "slowestTime": 536.0,
+  "totalTimeSeconds": 2000.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "7962",
+    "name": "Malware",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "7962",
+      "name": "Malware",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 157.0,
+  "globalRank": null,
+  "roleRank": null
+}

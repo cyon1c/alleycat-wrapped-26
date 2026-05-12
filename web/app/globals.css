@@ -1,0 +1,187 @@
+@import "tailwindcss";
+
+/* ── Brand Fonts ─────────────────────────────────────────── */
+@font-face {
+  font-family: "Cyber";
+  src: url("/fonts/Cyber.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ChargeVector";
+  src: url("/fonts/ChargeVector.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gore";
+  src: url("/fonts/Gore-Regular.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mylodon";
+  src: url("/fonts/Mylodon-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nostromo";
+  src: url("/fonts/NostromoOblique-Medium.otf") format("opentype");
+  font-display: swap;
+}
+
+/* ── Tailwind Theme Tokens ───────────────────────────────── */
+@theme {
+  --font-headline: "Cyber", "Arial Black", sans-serif;
+  --font-sub: "ChargeVector", "Arial", sans-serif;
+  --font-callout: "Gore", "Arial Black", sans-serif;
+  --font-body: "Nostromo", "Arial Narrow", sans-serif;
+  --font-alt: "Nostromo", "Arial Narrow", sans-serif;
+}
+
+:root {
+  --bg: #080b12;
+  --bg-card: #0d1220;
+  --bg-card-hover: #111827;
+  --border: rgba(0, 229, 255, 0.15);
+  --border-hover: rgba(0, 229, 255, 0.4);
+  --cyan: #00ccdd;
+  --pink: #d94f78;
+  --green: #4dc44d;
+  --text: #b8c4d4;
+  --text-dim: #606878;
+  --text-bright: #dde2ec;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: "Nostromo", "Arial Narrow", sans-serif;
+  min-height: 100vh;
+}
+
+/* Scanline overlay effect */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.03) 2px,
+    rgba(0, 0, 0, 0.03) 4px
+  );
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* Neon text glow — kept subtle */
+.glow-cyan {
+  text-shadow: 0 0 12px rgba(0, 229, 255, 0.35);
+}
+
+.glow-pink {
+  text-shadow: 0 0 12px rgba(255, 0, 128, 0.35);
+}
+
+.glow-green {
+  text-shadow: 0 0 12px rgba(57, 255, 20, 0.35);
+}
+
+/* Card base */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 0 16px rgba(0, 229, 255, 0.05);
+}
+
+/* Cyber border — top accent line */
+.cyber-border {
+  position: relative;
+}
+
+.cyber-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--cyan), transparent);
+}
+
+/* Base font size bump */
+html {
+  font-size: 17px;
+}
+
+/* Grid background for hero section */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(0, 229, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 229, 255, 0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 229, 255, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 229, 255, 0.6);
+}
+
+/* Selection */
+::selection {
+  background: rgba(0, 229, 255, 0.2);
+  color: var(--cyan);
+}
+
+/* Neon bar animation */
+@keyframes pulse-bar {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.pulse-bar {
+  animation: pulse-bar 2s ease-in-out infinite;
+}
+
+/* Glitch flicker */
+@keyframes glitch {
+  0%, 95%, 100% { opacity: 1; transform: none; }
+  96% { opacity: 0.8; transform: translateX(-2px); }
+  97% { opacity: 1; transform: translateX(2px); }
+  98% { opacity: 0.9; transform: none; }
+}
+
+.glitch {
+  animation: glitch 6s linear infinite;
+}

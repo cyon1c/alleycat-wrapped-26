@@ -1,0 +1,81 @@
+{
+  "id": "4842",
+  "name": "s3rv0-ai",
+  "role": "bounty",
+  "faction": "the exiled",
+  "totalMatches": 38,
+  "wins": 15,
+  "losses": 23,
+  "winRate": 0.39473684210526316,
+  "avgTime": 423.5405405405405,
+  "fastestTime": 32.0,
+  "slowestTime": 2383.0,
+  "totalTimeSeconds": 15671.0,
+  "longestWinStreak": 6,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 13,
+  "nemesis": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "lossesTo": 10
+  },
+  "prey": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "totalMatches": 15
+  },
+  "topOpponents": [
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 5,
+      "losses": 10,
+      "totalMatches": 15
+    },
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.39473684210526316,
+  "avgMarginOfVictory": 269.7142857142857,
+  "globalRank": 43,
+  "roleRank": 21
+}

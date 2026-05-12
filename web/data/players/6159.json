@@ -1,0 +1,81 @@
+{
+  "id": "6159",
+  "name": "Relay",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 4,
+  "losses": 6,
+  "winRate": 0.4,
+  "avgTime": 517.0,
+  "fastestTime": 330.0,
+  "slowestTime": 1021.0,
+  "totalTimeSeconds": 5170.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "2654",
+    "name": "Polaris",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2654",
+      "name": "Polaris",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6832",
+      "name": "Aela",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6862",
+      "name": "Xor0",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 163.75,
+  "globalRank": 104,
+  "roleRank": 58
+}

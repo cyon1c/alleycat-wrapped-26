@@ -1,0 +1,81 @@
+{
+  "id": "8901",
+  "name": "Vell",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 232,
+  "wins": 121,
+  "losses": 111,
+  "winRate": 0.521551724137931,
+  "avgTime": 285.4304347826087,
+  "fastestTime": 9.0,
+  "slowestTime": 1538.0,
+  "totalTimeSeconds": 65649.0,
+  "longestWinStreak": 13,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 50,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 23
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 16
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 38
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 16,
+      "losses": 22,
+      "totalMatches": 38
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 10,
+      "losses": 23,
+      "totalMatches": 33
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 8,
+      "losses": 10,
+      "totalMatches": 18
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 7,
+      "losses": 6,
+      "totalMatches": 13
+    },
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 9,
+      "losses": 4,
+      "totalMatches": 13
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.42857142857142855,
+    "lateWinRate": 0.6233766233766234
+  },
+  "escapeRate": 0.521551724137931,
+  "avgMarginOfVictory": 297.65,
+  "globalRank": 8,
+  "roleRank": 5
+}

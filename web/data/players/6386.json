@@ -1,0 +1,74 @@
+{
+  "id": "6386",
+  "name": "Mippy",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 4,
+  "losses": 2,
+  "winRate": 0.6666666666666666,
+  "avgTime": 808.8333333333334,
+  "fastestTime": 75.0,
+  "slowestTime": 2145.0,
+  "totalTimeSeconds": 4853.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8548",
+      "name": "nos3bl33d",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "9448",
+      "name": "piper",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 70.0,
+  "globalRank": null,
+  "roleRank": null
+}

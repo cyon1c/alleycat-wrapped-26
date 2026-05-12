@@ -1,0 +1,81 @@
+{
+  "id": "6694",
+  "name": "Ubik",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 17,
+  "wins": 4,
+  "losses": 13,
+  "winRate": 0.23529411764705882,
+  "avgTime": 639.4666666666667,
+  "fastestTime": 141.0,
+  "slowestTime": 2595.0,
+  "totalTimeSeconds": 9592.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "2270",
+    "name": "the commandant",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "1294",
+    "name": "Trance",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 552.75,
+  "globalRank": 104,
+  "roleRank": 47
+}

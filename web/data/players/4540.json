@@ -1,0 +1,81 @@
+{
+  "id": "4540",
+  "name": "Turb0",
+  "role": "hunter",
+  "faction": "pegasus.exe",
+  "totalMatches": 87,
+  "wins": 42,
+  "losses": 45,
+  "winRate": 0.4827586206896552,
+  "avgTime": 528.1379310344828,
+  "fastestTime": 24.0,
+  "slowestTime": 2668.0,
+  "totalTimeSeconds": 45948.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 25,
+  "nemesis": {
+    "id": "0362",
+    "name": "bubblez",
+    "lossesTo": 21
+  },
+  "prey": {
+    "id": "0362",
+    "name": "bubblez",
+    "winsAgainst": 20
+  },
+  "rival": {
+    "id": "0362",
+    "name": "bubblez",
+    "totalMatches": 41
+  },
+  "topOpponents": [
+    {
+      "id": "0362",
+      "name": "bubblez",
+      "wins": 20,
+      "losses": 21,
+      "totalMatches": 41
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 4,
+      "losses": 10,
+      "totalMatches": 14
+    },
+    {
+      "id": "4842",
+      "name": "s3rv0-ai",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5517241379310345,
+    "lateWinRate": 0.3793103448275862
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 312.9761904761905,
+  "globalRank": 22,
+  "roleRank": 12
+}

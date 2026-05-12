@@ -1,0 +1,81 @@
+{
+  "id": "6392",
+  "name": "Zeus",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 1,
+  "losses": 8,
+  "winRate": 0.1111111111111111,
+  "avgTime": 604.3333333333334,
+  "fastestTime": 332.0,
+  "slowestTime": 1058.0,
+  "totalTimeSeconds": 5439.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "2270",
+    "name": "the commandant",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7322",
+      "name": "James",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 475.0,
+  "globalRank": null,
+  "roleRank": null
+}

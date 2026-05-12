@@ -1,0 +1,81 @@
+{
+  "id": "3656",
+  "name": "ninja inferno",
+  "role": "hunter",
+  "faction": "gay space wizard island",
+  "totalMatches": 15,
+  "wins": 4,
+  "losses": 11,
+  "winRate": 0.26666666666666666,
+  "avgTime": 561.7142857142857,
+  "fastestTime": 156.0,
+  "slowestTime": 1499.0,
+  "totalTimeSeconds": 7864.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "0431",
+    "name": "ceph",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "3594",
+      "name": "whokilledkenny",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 399.5,
+  "globalRank": 104,
+  "roleRank": 47
+}

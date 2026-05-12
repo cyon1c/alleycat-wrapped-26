@@ -1,0 +1,81 @@
+{
+  "id": "4302",
+  "name": "Disco Bastard",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 132,
+  "wins": 81,
+  "losses": 51,
+  "winRate": 0.6136363636363636,
+  "avgTime": 348.17424242424244,
+  "fastestTime": 12.0,
+  "slowestTime": 2600.0,
+  "totalTimeSeconds": 45959.0,
+  "longestWinStreak": 12,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 20,
+  "nemesis": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "lossesTo": 28
+  },
+  "prey": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "winsAgainst": 57
+  },
+  "rival": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "totalMatches": 85
+  },
+  "topOpponents": [
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 57,
+      "losses": 28,
+      "totalMatches": 85
+    },
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 7,
+      "losses": 9,
+      "totalMatches": 16
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5227272727272727,
+    "lateWinRate": 0.7045454545454546
+  },
+  "escapeRate": 0.6136363636363636,
+  "avgMarginOfVictory": 309.7654320987654,
+  "globalRank": 11,
+  "roleRank": 7
+}

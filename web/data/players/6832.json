@@ -1,0 +1,81 @@
+{
+  "id": "6832",
+  "name": "Aela",
+  "role": "hunter",
+  "faction": "Blackcats",
+  "totalMatches": 6,
+  "wins": 1,
+  "losses": 5,
+  "winRate": 0.16666666666666666,
+  "avgTime": 641.5,
+  "fastestTime": 418.0,
+  "slowestTime": 827.0,
+  "totalTimeSeconds": 3849.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "4665",
+    "name": "Shedd",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6364",
+    "name": "Hutch",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4665",
+    "name": "Shedd",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6159",
+      "name": "Relay",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6364",
+      "name": "Hutch",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 290.0,
+  "globalRank": null,
+  "roleRank": null
+}

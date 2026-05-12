@@ -1,0 +1,81 @@
+{
+  "id": "5663",
+  "name": "Duckie",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 131,
+  "wins": 50,
+  "losses": 81,
+  "winRate": 0.3816793893129771,
+  "avgTime": 415.82442748091603,
+  "fastestTime": 64.0,
+  "slowestTime": 2605.0,
+  "totalTimeSeconds": 54473.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 48,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 26
+  },
+  "prey": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "winsAgainst": 6
+  },
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 32
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 6,
+      "losses": 26,
+      "totalMatches": 32
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 3,
+      "losses": 8,
+      "totalMatches": 11
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 2,
+      "losses": 4,
+      "totalMatches": 6
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 2,
+      "losses": 4,
+      "totalMatches": 6
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4186046511627907,
+    "lateWinRate": 0.2558139534883721
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 480.18,
+  "globalRank": 19,
+  "roleRank": 10
+}

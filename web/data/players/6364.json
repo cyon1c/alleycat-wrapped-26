@@ -1,0 +1,81 @@
+{
+  "id": "6364",
+  "name": "Hutch",
+  "role": "bounty",
+  "faction": "OED",
+  "totalMatches": 22,
+  "wins": 8,
+  "losses": 14,
+  "winRate": 0.36363636363636365,
+  "avgTime": 510.8636363636364,
+  "fastestTime": 87.0,
+  "slowestTime": 2103.0,
+  "totalTimeSeconds": 11239.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "9554",
+    "name": "Notto",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "9554",
+      "name": "Notto",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2857142857142857,
+    "lateWinRate": 0.2857142857142857
+  },
+  "escapeRate": 0.36363636363636365,
+  "avgMarginOfVictory": 368.25,
+  "globalRank": 68,
+  "roleRank": 40
+}

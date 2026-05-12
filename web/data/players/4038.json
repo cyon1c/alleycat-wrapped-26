@@ -1,0 +1,81 @@
+{
+  "id": "4038",
+  "name": "Fox",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 111,
+  "wins": 31,
+  "losses": 80,
+  "winRate": 0.27927927927927926,
+  "avgTime": 556.8558558558559,
+  "fastestTime": 109.0,
+  "slowestTime": 1456.0,
+  "totalTimeSeconds": 61811.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 20,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 67
+  },
+  "prey": {
+    "id": "7580",
+    "name": "Real Deal",
+    "winsAgainst": 23
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 90
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 23,
+      "losses": 67,
+      "totalMatches": 90
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "9937",
+      "name": "Mosfet",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.43243243243243246,
+    "lateWinRate": 0.2972972972972973
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 435.258064516129,
+  "globalRank": 26,
+  "roleRank": 15
+}

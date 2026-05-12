@@ -1,0 +1,81 @@
+{
+  "id": "0063",
+  "name": "Lurch",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 2,
+  "losses": 5,
+  "winRate": 0.2857142857142857,
+  "avgTime": 492.7142857142857,
+  "fastestTime": 58.0,
+  "slowestTime": 1106.0,
+  "totalTimeSeconds": 3449.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2529",
+    "name": "Orion ",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2529",
+      "name": "Orion ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.2857142857142857,
+  "avgMarginOfVictory": 242.0,
+  "globalRank": null,
+  "roleRank": null
+}

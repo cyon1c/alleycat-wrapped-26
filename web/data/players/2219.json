@@ -1,0 +1,67 @@
+{
+  "id": "2219",
+  "name": "1-nk",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 1,
+  "losses": 2,
+  "winRate": 0.3333333333333333,
+  "avgTime": 228.0,
+  "fastestTime": 174.0,
+  "slowestTime": 335.0,
+  "totalTimeSeconds": 684.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "3823",
+    "name": "T4STY",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5499",
+    "name": "haxlotl",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3823",
+    "name": "T4STY",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": 0.3333333333333333,
+  "avgMarginOfVictory": 750.0,
+  "globalRank": null,
+  "roleRank": null
+}

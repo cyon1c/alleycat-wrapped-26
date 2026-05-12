@@ -1,0 +1,81 @@
+{
+  "id": "4654",
+  "name": "C-L13",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 5,
+  "losses": 3,
+  "winRate": 0.625,
+  "avgTime": 367.75,
+  "fastestTime": 25.0,
+  "slowestTime": 1078.0,
+  "totalTimeSeconds": 2942.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3013",
+    "name": "Ace M",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3013",
+      "name": "Ace M",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7385",
+      "name": "Noonwraith",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.625,
+  "avgMarginOfVictory": 256.2,
+  "globalRank": null,
+  "roleRank": null
+}

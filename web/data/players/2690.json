@@ -1,0 +1,81 @@
+{
+  "id": "2690",
+  "name": "Chasm",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 13,
+  "wins": 8,
+  "losses": 5,
+  "winRate": 0.6153846153846154,
+  "avgTime": 444.9230769230769,
+  "fastestTime": 267.0,
+  "slowestTime": 912.0,
+  "totalTimeSeconds": 5784.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 5,
+      "losses": 2,
+      "totalMatches": 7
+    },
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0171",
+      "name": "Pollux-hunter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8722",
+      "name": "Pink Sheep",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.75
+  },
+  "escapeRate": 0.6153846153846154,
+  "avgMarginOfVictory": 424.875,
+  "globalRank": 68,
+  "roleRank": 40
+}

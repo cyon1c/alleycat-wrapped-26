@@ -1,0 +1,63 @@
+{
+  "id": "1131",
+  "name": "Juliel",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 0,
+  "losses": 3,
+  "winRate": 0.0,
+  "avgTime": 828.3333333333334,
+  "fastestTime": 426.0,
+  "slowestTime": 1155.0,
+  "totalTimeSeconds": 2485.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "1842",
+    "name": "cL17+3r",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "1842",
+    "name": "cL17+3r",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "1842",
+      "name": "cL17+3r",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5413",
+      "name": "CMDR Samtron Mox",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

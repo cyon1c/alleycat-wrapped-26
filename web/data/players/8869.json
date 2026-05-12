@@ -1,0 +1,81 @@
+{
+  "id": "8869",
+  "name": "Tick",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 30,
+  "wins": 9,
+  "losses": 21,
+  "winRate": 0.3,
+  "avgTime": 722.9666666666667,
+  "fastestTime": 55.0,
+  "slowestTime": 1817.0,
+  "totalTimeSeconds": 21689.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 5,
+      "totalMatches": 6
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2145",
+      "name": "Z-kay",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": 0.3,
+  "avgMarginOfVictory": 429.3333333333333,
+  "globalRank": 59,
+  "roleRank": 33
+}

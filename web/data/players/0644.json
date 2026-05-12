@@ -1,0 +1,81 @@
+{
+  "id": "0644",
+  "name": "Coyote ",
+  "role": "bounty",
+  "faction": "Oricon",
+  "totalMatches": 24,
+  "wins": 12,
+  "losses": 12,
+  "winRate": 0.5,
+  "avgTime": 568.3333333333334,
+  "fastestTime": 64.0,
+  "slowestTime": 2991.0,
+  "totalTimeSeconds": 13640.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 12,
+  "nemesis": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.75,
+    "lateWinRate": 0.125
+  },
+  "escapeRate": 0.5,
+  "avgMarginOfVictory": 368.8333333333333,
+  "globalRank": 51,
+  "roleRank": 27
+}

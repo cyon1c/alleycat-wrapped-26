@@ -1,0 +1,74 @@
+{
+  "id": "8425",
+  "name": "Xylyx",
+  "role": "bounty",
+  "faction": "Crimson Salvage & Logistics",
+  "totalMatches": 8,
+  "wins": 3,
+  "losses": 5,
+  "winRate": 0.375,
+  "avgTime": 425.25,
+  "fastestTime": 19.0,
+  "slowestTime": 793.0,
+  "totalTimeSeconds": 3402.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0817",
+    "name": "JayKaze",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.375,
+  "avgMarginOfVictory": 180.66666666666666,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "3040",
+  "name": "Solar",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 0,
+  "losses": 5,
+  "winRate": 0.0,
+  "avgTime": 1735.2,
+  "fastestTime": 666.0,
+  "slowestTime": 3044.0,
+  "totalTimeSeconds": 8676.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "6068",
+    "name": "LT",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "6068",
+    "name": "LT",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "6068",
+      "name": "LT",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1960",
+      "name": "J-Rock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9448",
+      "name": "piper",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

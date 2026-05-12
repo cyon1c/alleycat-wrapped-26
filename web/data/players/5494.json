@@ -1,0 +1,81 @@
+{
+  "id": "5494",
+  "name": "Artemis",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 25,
+  "wins": 15,
+  "losses": 10,
+  "winRate": 0.6,
+  "avgTime": 532.08,
+  "fastestTime": 252.0,
+  "slowestTime": 1407.0,
+  "totalTimeSeconds": 13302.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 5
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "6465",
+    "name": "B-1",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "6465",
+    "name": "B-1",
+    "winsAgainst": 10
+  },
+  "rival": {
+    "id": "6465",
+    "name": "B-1",
+    "totalMatches": 14
+  },
+  "topOpponents": [
+    {
+      "id": "6465",
+      "name": "B-1",
+      "wins": 10,
+      "losses": 4,
+      "totalMatches": 14
+    },
+    {
+      "id": "6335",
+      "name": "Rank",
+      "wins": 4,
+      "losses": 0,
+      "totalMatches": 4
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.625
+  },
+  "escapeRate": 0.6,
+  "avgMarginOfVictory": 309.3333333333333,
+  "globalRank": 43,
+  "roleRank": 21
+}

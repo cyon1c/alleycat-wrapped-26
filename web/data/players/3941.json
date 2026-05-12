@@ -1,0 +1,81 @@
+{
+  "id": "3941",
+  "name": "Story",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 3,
+  "losses": 6,
+  "winRate": 0.3333333333333333,
+  "avgTime": 494.25,
+  "fastestTime": 96.0,
+  "slowestTime": 870.0,
+  "totalTimeSeconds": 3954.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "6735",
+    "name": "Cayde",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "4022",
+    "name": "Manananggal",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6735",
+    "name": "Cayde",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "1130",
+      "name": "Pal",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4022",
+      "name": "Manananggal",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4842",
+      "name": "s3rv0-ai",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 504.6666666666667,
+  "globalRank": null,
+  "roleRank": null
+}

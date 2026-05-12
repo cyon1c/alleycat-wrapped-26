@@ -1,0 +1,81 @@
+{
+  "id": "4261",
+  "name": "The Detective",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 56,
+  "wins": 18,
+  "losses": 38,
+  "winRate": 0.32142857142857145,
+  "avgTime": 582.8035714285714,
+  "fastestTime": 67.0,
+  "slowestTime": 2964.0,
+  "totalTimeSeconds": 32637.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 21,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "4063",
+    "name": "Blorbo",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 3,
+      "losses": 8,
+      "totalMatches": 11
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 8,
+      "totalMatches": 9
+    },
+    {
+      "id": "4063",
+      "name": "Blorbo",
+      "wins": 3,
+      "losses": 3,
+      "totalMatches": 6
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "7221",
+      "name": "Nexus",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2777777777777778,
+    "lateWinRate": 0.2777777777777778
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 503.22222222222223,
+  "globalRank": 37,
+  "roleRank": 21
+}

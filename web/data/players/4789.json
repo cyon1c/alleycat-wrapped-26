@@ -1,0 +1,81 @@
+{
+  "id": "4789",
+  "name": "Cerberus",
+  "role": "hunter",
+  "faction": "Pegasus.exe",
+  "totalMatches": 79,
+  "wins": 33,
+  "losses": 46,
+  "winRate": 0.4177215189873418,
+  "avgTime": 429.30379746835445,
+  "fastestTime": 12.0,
+  "slowestTime": 1611.0,
+  "totalTimeSeconds": 33915.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 18
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 13
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 31
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 13,
+      "losses": 18,
+      "totalMatches": 31
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 4,
+      "losses": 9,
+      "totalMatches": 13
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "0362",
+      "name": "bubblez",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.3076923076923077
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 381.6363636363636,
+  "globalRank": 25,
+  "roleRank": 14
+}

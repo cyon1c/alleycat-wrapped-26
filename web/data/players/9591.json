@@ -1,0 +1,81 @@
+{
+  "id": "9591",
+  "name": "Rygel",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 15,
+  "wins": 6,
+  "losses": 9,
+  "winRate": 0.4,
+  "avgTime": 401.3333333333333,
+  "fastestTime": 55.0,
+  "slowestTime": 943.0,
+  "totalTimeSeconds": 6020.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "0652",
+    "name": "Naile",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "0652",
+      "name": "Naile",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 429.3333333333333,
+  "globalRank": 86,
+  "roleRank": 48
+}

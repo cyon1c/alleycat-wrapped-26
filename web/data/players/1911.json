@@ -1,0 +1,81 @@
+{
+  "id": "1911",
+  "name": "Crimson",
+  "role": "bounty",
+  "faction": "Altera Ward",
+  "totalMatches": 36,
+  "wins": 3,
+  "losses": 33,
+  "winRate": 0.08333333333333333,
+  "avgTime": 515.75,
+  "fastestTime": 58.0,
+  "slowestTime": 1261.0,
+  "totalTimeSeconds": 18567.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 18,
+  "currentStreak": {
+    "type": "loss",
+    "count": 12
+  },
+  "uniqueOpponents": 12,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 11
+  },
+  "prey": {
+    "id": "5663",
+    "name": "Duckie",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 11,
+      "totalMatches": 11
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 10,
+      "totalMatches": 11
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.08333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.08333333333333333,
+  "avgMarginOfVictory": 304.3333333333333,
+  "globalRank": 112,
+  "roleRank": 64
+}

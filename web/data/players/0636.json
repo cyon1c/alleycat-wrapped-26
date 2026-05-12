@@ -1,0 +1,81 @@
+{
+  "id": "0636",
+  "name": "Ramona",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 33,
+  "wins": 9,
+  "losses": 24,
+  "winRate": 0.2727272727272727,
+  "avgTime": 661.3636363636364,
+  "fastestTime": 37.0,
+  "slowestTime": 2753.0,
+  "totalTimeSeconds": 21825.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "1178",
+    "name": "sundance kid",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 8,
+      "totalMatches": 9
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 7,
+      "totalMatches": 8
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.36363636363636365,
+    "lateWinRate": 0.18181818181818182
+  },
+  "escapeRate": 0.2727272727272727,
+  "avgMarginOfVictory": 382.0,
+  "globalRank": 59,
+  "roleRank": 33
+}

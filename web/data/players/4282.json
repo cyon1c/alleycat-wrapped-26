@@ -1,0 +1,56 @@
+{
+  "id": "4282",
+  "name": "Din0 Nugg3t",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 2,
+  "wins": 0,
+  "losses": 2,
+  "winRate": 0.0,
+  "avgTime": 729.5,
+  "fastestTime": 546.0,
+  "slowestTime": 913.0,
+  "totalTimeSeconds": 1459.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

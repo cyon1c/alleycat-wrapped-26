@@ -1,0 +1,63 @@
+{
+  "id": "0265",
+  "name": "Lyzard",
+  "role": "bounty",
+  "faction": "Freq",
+  "totalMatches": 3,
+  "wins": 0,
+  "losses": 3,
+  "winRate": 0.0,
+  "avgTime": 982.0,
+  "fastestTime": 865.0,
+  "slowestTime": 1051.0,
+  "totalTimeSeconds": 2946.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

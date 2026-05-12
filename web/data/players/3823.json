@@ -1,0 +1,81 @@
+{
+  "id": "3823",
+  "name": "T4STY",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 118,
+  "wins": 59,
+  "losses": 59,
+  "winRate": 0.5,
+  "avgTime": 384.77966101694915,
+  "fastestTime": 15.0,
+  "slowestTime": 2749.0,
+  "totalTimeSeconds": 45404.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 47,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 9
+  },
+  "prey": {
+    "id": "0431",
+    "name": "ceph",
+    "winsAgainst": 8
+  },
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 17
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 8,
+      "losses": 9,
+      "totalMatches": 17
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 6,
+      "losses": 7,
+      "totalMatches": 13
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 9,
+      "totalMatches": 10
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 3,
+      "losses": 5,
+      "totalMatches": 8
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 4,
+      "losses": 2,
+      "totalMatches": 6
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5128205128205128,
+    "lateWinRate": 0.48717948717948717
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 433.96610169491527,
+  "globalRank": 17,
+  "roleRank": 8
+}

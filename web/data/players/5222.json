@@ -1,0 +1,81 @@
+{
+  "id": "5222",
+  "name": "circuit mouse",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 398,
+  "wins": 241,
+  "losses": 157,
+  "winRate": 0.6055276381909548,
+  "avgTime": 389.61772151898737,
+  "fastestTime": 15.0,
+  "slowestTime": 2789.0,
+  "totalTimeSeconds": 153899.0,
+  "longestWinStreak": 14,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 60,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 33
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 30
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 57
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 24,
+      "losses": 33,
+      "totalMatches": 57
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 30,
+      "losses": 23,
+      "totalMatches": 53
+    },
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 18,
+      "losses": 13,
+      "totalMatches": 31
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 14,
+      "losses": 11,
+      "totalMatches": 25
+    },
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 11,
+      "losses": 13,
+      "totalMatches": 24
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6439393939393939,
+    "lateWinRate": 0.6212121212121212
+  },
+  "escapeRate": 0.6055276381909548,
+  "avgMarginOfVictory": 373.1344537815126,
+  "globalRank": 3,
+  "roleRank": 1
+}

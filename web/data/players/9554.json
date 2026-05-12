@@ -1,0 +1,81 @@
+{
+  "id": "9554",
+  "name": "Notto",
+  "role": "hunter",
+  "faction": "Albatross",
+  "totalMatches": 18,
+  "wins": 5,
+  "losses": 13,
+  "winRate": 0.2777777777777778,
+  "avgTime": 605.6111111111111,
+  "fastestTime": 289.0,
+  "slowestTime": 1186.0,
+  "totalTimeSeconds": 10901.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0067",
+    "name": "GHOST",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "6364",
+      "name": "Hutch",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "9890",
+      "name": "malcolm in the middle",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0067",
+      "name": "GHOST",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.16666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 195.0,
+  "globalRank": 95,
+  "roleRank": 43
+}

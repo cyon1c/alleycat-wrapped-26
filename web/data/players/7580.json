@@ -1,0 +1,81 @@
+{
+  "id": "7580",
+  "name": "Real Deal",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 251,
+  "wins": 163,
+  "losses": 88,
+  "winRate": 0.649402390438247,
+  "avgTime": 387.31451612903226,
+  "fastestTime": 163.0,
+  "slowestTime": 2154.0,
+  "totalTimeSeconds": 96054.0,
+  "longestWinStreak": 23,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 58,
+  "nemesis": {
+    "id": "4038",
+    "name": "Fox",
+    "lossesTo": 23
+  },
+  "prey": {
+    "id": "4038",
+    "name": "Fox",
+    "winsAgainst": 67
+  },
+  "rival": {
+    "id": "4038",
+    "name": "Fox",
+    "totalMatches": 90
+  },
+  "topOpponents": [
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 67,
+      "losses": 23,
+      "totalMatches": 90
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 3,
+      "losses": 11,
+      "totalMatches": 14
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 10,
+      "totalMatches": 12
+    },
+    {
+      "id": "5459",
+      "name": "Samtron",
+      "wins": 6,
+      "losses": 0,
+      "totalMatches": 6
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 4,
+      "losses": 2,
+      "totalMatches": 6
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.7349397590361446,
+    "lateWinRate": 0.6867469879518072
+  },
+  "escapeRate": 0.649402390438247,
+  "avgMarginOfVictory": 309.0625,
+  "globalRank": 5,
+  "roleRank": 3
+}

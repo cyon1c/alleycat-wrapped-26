@@ -1,0 +1,81 @@
+{
+  "id": "6230",
+  "name": "Boom-Box",
+  "role": "hunter",
+  "faction": "Diatones",
+  "totalMatches": 94,
+  "wins": 54,
+  "losses": 40,
+  "winRate": 0.574468085106383,
+  "avgTime": 287.35869565217394,
+  "fastestTime": 26.0,
+  "slowestTime": 1010.0,
+  "totalTimeSeconds": 26437.0,
+  "longestWinStreak": 6,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 23,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 22
+  },
+  "prey": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "winsAgainst": 16
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 38
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 16,
+      "losses": 22,
+      "totalMatches": 38
+    },
+    {
+      "id": "4302",
+      "name": "Disco Bastard",
+      "wins": 9,
+      "losses": 7,
+      "totalMatches": 16
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 6,
+      "losses": 3,
+      "totalMatches": 9
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5806451612903226,
+    "lateWinRate": 0.5483870967741935
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 281.0566037735849,
+  "globalRank": 18,
+  "roleRank": 9
+}

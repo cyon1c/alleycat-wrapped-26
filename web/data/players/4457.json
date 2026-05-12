@@ -1,0 +1,81 @@
+{
+  "id": "4457",
+  "name": "Bonesaw",
+  "role": "hunter",
+  "faction": "Oricon",
+  "totalMatches": 71,
+  "wins": 47,
+  "losses": 24,
+  "winRate": 0.6619718309859155,
+  "avgTime": 290.63380281690144,
+  "fastestTime": 28.0,
+  "slowestTime": 1064.0,
+  "totalTimeSeconds": 20635.0,
+  "longestWinStreak": 12,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 43,
+  "nemesis": {
+    "id": "1492",
+    "name": "C.O.K.E",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "8901",
+    "name": "Vell",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "8901",
+    "name": "Vell",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 5,
+      "losses": 1,
+      "totalMatches": 6
+    },
+    {
+      "id": "0644",
+      "name": "Coyote ",
+      "wins": 3,
+      "losses": 2,
+      "totalMatches": 5
+    },
+    {
+      "id": "1492",
+      "name": "C.O.K.E",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6086956521739131,
+    "lateWinRate": 0.5652173913043478
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 330.531914893617,
+  "globalRank": 20,
+  "roleRank": 11
+}

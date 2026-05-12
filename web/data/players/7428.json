@@ -1,0 +1,81 @@
+{
+  "id": "7428",
+  "name": "Hugbot-V6.9",
+  "role": "hunter",
+  "faction": "pegasus.exe",
+  "totalMatches": 65,
+  "wins": 22,
+  "losses": 43,
+  "winRate": 0.3384615384615385,
+  "avgTime": 412.8125,
+  "fastestTime": 19.0,
+  "slowestTime": 2659.0,
+  "totalTimeSeconds": 26420.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 24,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 12
+  },
+  "prey": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 15
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 3,
+      "losses": 12,
+      "totalMatches": 15
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 2,
+      "losses": 8,
+      "totalMatches": 10
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "2671",
+      "name": "W0jtek",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.42857142857142855,
+    "lateWinRate": 0.19047619047619047
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 239.8095238095238,
+  "globalRank": 31,
+  "roleRank": 17
+}

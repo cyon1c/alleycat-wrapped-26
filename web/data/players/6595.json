@@ -1,0 +1,81 @@
+{
+  "id": "6595",
+  "name": "snatch goblin",
+  "role": "bounty",
+  "faction": "bone zone",
+  "totalMatches": 8,
+  "wins": 3,
+  "losses": 5,
+  "winRate": 0.375,
+  "avgTime": 409.75,
+  "fastestTime": 87.0,
+  "slowestTime": 754.0,
+  "totalTimeSeconds": 3278.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.375,
+  "avgMarginOfVictory": 44.666666666666664,
+  "globalRank": null,
+  "roleRank": null
+}

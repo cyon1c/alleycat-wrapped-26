@@ -1,0 +1,81 @@
+{
+  "id": "6465",
+  "name": "B-1",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 25,
+  "wins": 8,
+  "losses": 17,
+  "winRate": 0.32,
+  "avgTime": 635.12,
+  "fastestTime": 218.0,
+  "slowestTime": 2227.0,
+  "totalTimeSeconds": 15878.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "5494",
+    "name": "Artemis",
+    "lossesTo": 10
+  },
+  "prey": {
+    "id": "5494",
+    "name": "Artemis",
+    "winsAgainst": 4
+  },
+  "rival": {
+    "id": "5494",
+    "name": "Artemis",
+    "totalMatches": 14
+  },
+  "topOpponents": [
+    {
+      "id": "5494",
+      "name": "Artemis",
+      "wins": 4,
+      "losses": 10,
+      "totalMatches": 14
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.125
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 411.5,
+  "globalRank": 68,
+  "roleRank": 29
+}

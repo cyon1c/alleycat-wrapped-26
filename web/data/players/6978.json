@@ -1,0 +1,81 @@
+{
+  "id": "6978",
+  "name": "Joy",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 1,
+  "losses": 8,
+  "winRate": 0.1111111111111111,
+  "avgTime": 809.5,
+  "fastestTime": 311.0,
+  "slowestTime": 2144.0,
+  "totalTimeSeconds": 6476.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "8386",
+    "name": "Teck-eee!",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.1111111111111111,
+  "avgMarginOfVictory": 75.0,
+  "globalRank": null,
+  "roleRank": null
+}

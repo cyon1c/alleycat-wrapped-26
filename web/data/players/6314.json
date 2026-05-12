@@ -1,0 +1,81 @@
+{
+  "id": "6314",
+  "name": "Magg-e",
+  "role": "bounty",
+  "faction": "ETA",
+  "totalMatches": 17,
+  "wins": 5,
+  "losses": 12,
+  "winRate": 0.29411764705882354,
+  "avgTime": 338.11764705882354,
+  "fastestTime": 76.0,
+  "slowestTime": 791.0,
+  "totalTimeSeconds": 5748.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "0231",
+    "name": "Creature Comforts",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0231",
+      "name": "Creature Comforts",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": 0.29411764705882354,
+  "avgMarginOfVictory": 295.6,
+  "globalRank": 95,
+  "roleRank": 53
+}

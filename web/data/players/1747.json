@@ -1,0 +1,81 @@
+{
+  "id": "1747",
+  "name": "Rome",
+  "role": "hunter",
+  "faction": "Atomic Fangs",
+  "totalMatches": 7,
+  "wins": 3,
+  "losses": 4,
+  "winRate": 0.42857142857142855,
+  "avgTime": 921.0,
+  "fastestTime": 373.0,
+  "slowestTime": 2845.0,
+  "totalTimeSeconds": 6447.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "2642",
+    "name": "Loki",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "9937",
+    "name": "Mosfet",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "9937",
+    "name": "Mosfet",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "9937",
+      "name": "Mosfet",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "2642",
+      "name": "Loki",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 928.3333333333334,
+  "globalRank": null,
+  "roleRank": null
+}

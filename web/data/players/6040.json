@@ -1,0 +1,81 @@
+{
+  "id": "6040",
+  "name": "Cheese 🧀 ",
+  "role": "bounty",
+  "faction": "Camp Trailer T@sh",
+  "totalMatches": 259,
+  "wins": 160,
+  "losses": 99,
+  "winRate": 0.6177606177606177,
+  "avgTime": 303.8503937007874,
+  "fastestTime": 9.0,
+  "slowestTime": 2268.0,
+  "totalTimeSeconds": 77178.0,
+  "longestWinStreak": 13,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 8
+  },
+  "uniqueOpponents": 49,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 30
+  },
+  "prey": {
+    "id": "5663",
+    "name": "Duckie",
+    "winsAgainst": 26
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 43
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 13,
+      "losses": 30,
+      "totalMatches": 43
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 12,
+      "losses": 22,
+      "totalMatches": 34
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 26,
+      "losses": 6,
+      "totalMatches": 32
+    },
+    {
+      "id": "7428",
+      "name": "Hugbot-V6.9",
+      "wins": 12,
+      "losses": 3,
+      "totalMatches": 15
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 7,
+      "losses": 5,
+      "totalMatches": 12
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.46511627906976744,
+    "lateWinRate": 0.7209302325581395
+  },
+  "escapeRate": 0.6177606177606177,
+  "avgMarginOfVictory": 331.3225806451613,
+  "globalRank": 6,
+  "roleRank": 4
+}

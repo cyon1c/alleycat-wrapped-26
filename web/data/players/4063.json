@@ -1,0 +1,81 @@
+{
+  "id": "4063",
+  "name": "Blorbo",
+  "role": "bounty",
+  "faction": "g://0st",
+  "totalMatches": 33,
+  "wins": 9,
+  "losses": 24,
+  "winRate": 0.2727272727272727,
+  "avgTime": 564.4848484848485,
+  "fastestTime": 18.0,
+  "slowestTime": 2148.0,
+  "totalTimeSeconds": 18628.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 15,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "4261",
+    "name": "The Detective",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 3,
+      "losses": 3,
+      "totalMatches": 6
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 5,
+      "totalMatches": 6
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.36363636363636365,
+    "lateWinRate": 0.18181818181818182
+  },
+  "escapeRate": 0.2727272727272727,
+  "avgMarginOfVictory": 431.0,
+  "globalRank": 59,
+  "roleRank": 33
+}

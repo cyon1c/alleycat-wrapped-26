@@ -1,0 +1,897 @@
+{
+  "totalMatches": 4149,
+  "totalPlayersRegistered": 666,
+  "totalPlayersActive": 274,
+  "totalHuntersActive": 111,
+  "totalBountiesActive": 163,
+  "hunterWinRate": 0.529766208724994,
+  "bountyWinRate": 0.47023379127500603,
+  "avgHunterTime": 392.56083881980004,
+  "avgBountyTime": 428.9065625762381,
+  "avgWinStreak": 2.7627737226277373,
+  "avgLossStreak": 4.737226277372263,
+  "top3FastestHunterTimes": [
+    {
+      "matchId": "a8853b84-9fd8-429d-92c8-4253e47fed0c",
+      "hunterId": "1178",
+      "hunterName": "sundance kid",
+      "hunterTime": 6.0
+    },
+    {
+      "matchId": "c0fdf93e-1f93-4443-b9e3-38f3adfca423",
+      "hunterId": "1178",
+      "hunterName": "sundance kid",
+      "hunterTime": 6.0
+    },
+    {
+      "matchId": "23bce2bd-d526-45c3-bd26-45224baf48d1",
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "hunterTime": 7.0
+    }
+  ],
+  "top3FastestBountyTimes": [
+    {
+      "matchId": "aaaeebab-7a90-4750-8aee-9fb06ed6bb33",
+      "bountyId": "3841",
+      "bountyName": "DDR",
+      "bountyTime": 6.0
+    },
+    {
+      "matchId": "8985ac56-47c5-472c-994b-5dab4f54be85",
+      "bountyId": "4620",
+      "bountyName": "g1dg3t",
+      "bountyTime": 7.0
+    },
+    {
+      "matchId": "fccca79a-a4ba-4b71-86bf-abe5b0df2e1c",
+      "bountyId": "4620",
+      "bountyName": "g1dg3t",
+      "bountyTime": 7.0
+    }
+  ],
+  "top3ClosestMatches": [
+    {
+      "matchId": "6d6ecb21-389c-440f-a5a0-338e936f3009",
+      "rowid": 1894,
+      "margin": 0.0,
+      "hunterId": "4247",
+      "hunterName": "0-Syris",
+      "bountyId": "8901",
+      "bountyName": "Vell",
+      "hunterTime": 178.0,
+      "bountyTime": 178.0
+    },
+    {
+      "matchId": "424f822c-f355-4489-ab02-a2f3ac644d68",
+      "rowid": 2881,
+      "margin": 0.0,
+      "hunterId": "3518",
+      "hunterName": "Hi-Fi",
+      "bountyId": "4302",
+      "bountyName": "Disco Bastard",
+      "hunterTime": 213.0,
+      "bountyTime": 213.0
+    },
+    {
+      "matchId": "2353e957-a6d5-44c8-8bb3-65eb86c2ba2c",
+      "rowid": 3184,
+      "margin": 0.0,
+      "hunterId": "1178",
+      "hunterName": "sundance kid",
+      "bountyId": "8901",
+      "bountyName": "Vell",
+      "hunterTime": 138.0,
+      "bountyTime": 138.0
+    }
+  ],
+  "top10MostMatchesPlayed": [
+    {
+      "playerId": "8606",
+      "name": "Reggie Bloodletter",
+      "totalMatches": 662
+    },
+    {
+      "playerId": "3415",
+      "name": "Hot-Lock",
+      "totalMatches": 568
+    },
+    {
+      "playerId": "5222",
+      "name": "circuit mouse",
+      "totalMatches": 398
+    },
+    {
+      "playerId": "4620",
+      "name": "g1dg3t",
+      "totalMatches": 261
+    },
+    {
+      "playerId": "6040",
+      "name": "Cheese 🧀 ",
+      "totalMatches": 259
+    },
+    {
+      "playerId": "7580",
+      "name": "Real Deal",
+      "totalMatches": 251
+    },
+    {
+      "playerId": "8901",
+      "name": "Vell",
+      "totalMatches": 232
+    },
+    {
+      "playerId": "1178",
+      "name": "sundance kid",
+      "totalMatches": 220
+    },
+    {
+      "playerId": "3518",
+      "name": "Hi-Fi",
+      "totalMatches": 182
+    },
+    {
+      "playerId": "0436",
+      "name": "felis stray",
+      "totalMatches": 175
+    }
+  ],
+  "top10LongestWinStreaks": [
+    {
+      "playerId": "3415",
+      "name": "Hot-Lock",
+      "streak": 68
+    },
+    {
+      "playerId": "4620",
+      "name": "g1dg3t",
+      "streak": 26
+    },
+    {
+      "playerId": "8606",
+      "name": "Reggie Bloodletter",
+      "streak": 24
+    },
+    {
+      "playerId": "7580",
+      "name": "Real Deal",
+      "streak": 23
+    },
+    {
+      "playerId": "5222",
+      "name": "circuit mouse",
+      "streak": 14
+    },
+    {
+      "playerId": "6735",
+      "name": "Cayde",
+      "streak": 14
+    },
+    {
+      "playerId": "1178",
+      "name": "sundance kid",
+      "streak": 13
+    },
+    {
+      "playerId": "6040",
+      "name": "Cheese 🧀 ",
+      "streak": 13
+    },
+    {
+      "playerId": "8901",
+      "name": "Vell",
+      "streak": 13
+    },
+    {
+      "playerId": "4302",
+      "name": "Disco Bastard",
+      "streak": 12
+    }
+  ],
+  "top10MostUniqueOpponents": [
+    {
+      "playerId": "8606",
+      "name": "Reggie Bloodletter",
+      "uniqueOpponents": 133
+    },
+    {
+      "playerId": "3415",
+      "name": "Hot-Lock",
+      "uniqueOpponents": 130
+    },
+    {
+      "playerId": "1178",
+      "name": "sundance kid",
+      "uniqueOpponents": 72
+    },
+    {
+      "playerId": "0436",
+      "name": "felis stray",
+      "uniqueOpponents": 62
+    },
+    {
+      "playerId": "4620",
+      "name": "g1dg3t",
+      "uniqueOpponents": 61
+    },
+    {
+      "playerId": "5222",
+      "name": "circuit mouse",
+      "uniqueOpponents": 60
+    },
+    {
+      "playerId": "7580",
+      "name": "Real Deal",
+      "uniqueOpponents": 58
+    },
+    {
+      "playerId": "8901",
+      "name": "Vell",
+      "uniqueOpponents": 50
+    },
+    {
+      "playerId": "5499",
+      "name": "haxlotl",
+      "uniqueOpponents": 49
+    },
+    {
+      "playerId": "6040",
+      "name": "Cheese 🧀 ",
+      "uniqueOpponents": 49
+    }
+  ],
+  "top10FastestAvgTimes": [
+    {
+      "playerId": "4620",
+      "name": "g1dg3t",
+      "avgTime": 208.36046511627907
+    },
+    {
+      "playerId": "3415",
+      "name": "Hot-Lock",
+      "avgTime": 217.85026737967914
+    },
+    {
+      "playerId": "5499",
+      "name": "haxlotl",
+      "avgTime": 235.14
+    },
+    {
+      "playerId": "1178",
+      "name": "sundance kid",
+      "avgTime": 249.76363636363635
+    },
+    {
+      "playerId": "9246",
+      "name": "7imber",
+      "avgTime": 250.03703703703704
+    },
+    {
+      "playerId": "8606",
+      "name": "Reggie Bloodletter",
+      "avgTime": 258.08396946564886
+    },
+    {
+      "playerId": "3841",
+      "name": "DDR",
+      "avgTime": 259.18518518518516
+    },
+    {
+      "playerId": "7536",
+      "name": "Golden",
+      "avgTime": 267.2967032967033
+    },
+    {
+      "playerId": "9303",
+      "name": "Jackal",
+      "avgTime": 271.1333333333333
+    },
+    {
+      "playerId": "2270",
+      "name": "the commandant",
+      "avgTime": 277.3142857142857
+    }
+  ],
+  "matchCountPercentiles": {
+    "p25": 5.0,
+    "p50": 10.0,
+    "p75": 24.75,
+    "p90": 66.40000000000003,
+    "p99": 297.9899999999975
+  },
+  "totalMatchSeconds": 3362616.0,
+  "anomalousMatches": [
+    {
+      "matchId": "540d4119-7ecf-415a-b6b6-daf1666e5eac",
+      "rowid": 309,
+      "hunterId": "0312",
+      "hunterName": "Hummingbird",
+      "bountyId": "9246",
+      "bountyName": "7imber",
+      "hunterTime": 4635.0,
+      "bountyTime": 100.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Hummingbird (hunter), hunterTime=4635.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "6487bfd8-6dad-4daa-8e70-3509b9422ea5",
+      "rowid": 512,
+      "hunterId": "0312",
+      "hunterName": "Hummingbird",
+      "bountyId": "3956",
+      "bountyName": "Luxx",
+      "hunterTime": 879.0,
+      "bountyTime": 10079.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Luxx (bounty), bountyTime=10079.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "97a62802-d01a-46df-a4ff-9ca7b9843dcd",
+      "rowid": 568,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "6978",
+      "bountyName": "Joy",
+      "hunterTime": 284.0,
+      "bountyTime": 3944.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Joy (bounty), bountyTime=3944.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "b84d9776-3499-4221-8517-3fb28137aab8",
+      "rowid": 650,
+      "hunterId": "8722",
+      "hunterName": "Pink Sheep",
+      "bountyId": "5222",
+      "bountyName": "circuit mouse",
+      "hunterTime": 39741.0,
+      "bountyTime": 73.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Pink Sheep (hunter), hunterTime=39741.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "55b7003c-f400-4d4d-894d-213b51dc6195",
+      "rowid": 674,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "2880",
+      "bountyName": "Victoream",
+      "hunterTime": 213.0,
+      "bountyTime": 4469.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Victoream (bounty), bountyTime=4469.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "4889a689-f94e-458e-b951-da16bbe2310e",
+      "rowid": 688,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "3714",
+      "bountyName": "Judas",
+      "hunterTime": 230.0,
+      "bountyTime": 7285.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Judas (bounty), bountyTime=7285.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "1cf5327a-81bd-4d82-8c12-5a98de393b75",
+      "rowid": 720,
+      "hunterId": "3583",
+      "hunterName": "gr33zst41n",
+      "bountyId": "8035",
+      "bountyName": "Bootleg ",
+      "hunterTime": 10617.0,
+      "bountyTime": 277.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "gr33zst41n (hunter), hunterTime=10617.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "5cc75503-ba7f-4ae4-8b94-833164488c84",
+      "rowid": 750,
+      "hunterId": "8436",
+      "hunterName": "Rusty",
+      "bountyId": "3845",
+      "bountyName": "Kitkit",
+      "hunterTime": 4218.0,
+      "bountyTime": 3215.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Rusty (hunter), hunterTime=4218.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "c37a2f81-aa4e-4413-a0f1-a5dde27c8d1d",
+      "rowid": 814,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "3956",
+      "bountyName": "Luxx",
+      "hunterTime": 174.0,
+      "bountyTime": 3666.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Luxx (bounty), bountyTime=3666.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "09fa8ba6-4a95-43e8-87b0-bcfdf1e7439a",
+      "rowid": 929,
+      "hunterId": "8436",
+      "hunterName": "Rusty",
+      "bountyId": "6735",
+      "bountyName": "Cayde",
+      "hunterTime": 5701.0,
+      "bountyTime": 74.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Rusty (hunter), hunterTime=5701.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "f82d3a5a-fa70-4255-98a7-533eca9a2549",
+      "rowid": 1108,
+      "hunterId": "0171",
+      "hunterName": "Pollux-hunter",
+      "bountyId": "5222",
+      "bountyName": "circuit mouse",
+      "hunterTime": 4233.0,
+      "bountyTime": 3659.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Pollux-hunter (hunter), hunterTime=4233.0; circuit mouse (bounty), bountyTime=3659.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "4f24b852-38ab-4af4-b5d2-f8dba2f00ebb",
+      "rowid": 1119,
+      "hunterId": "3941",
+      "hunterName": "Story",
+      "bountyId": "4842",
+      "bountyName": "s3rv0-ai",
+      "hunterTime": 3829.0,
+      "bountyTime": 244.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Story (hunter), hunterTime=3829.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "e1dcb373-c126-4095-a198-f2602d5fa140",
+      "rowid": 1355,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "3845",
+      "bountyName": "Kitkit",
+      "hunterTime": 246.0,
+      "bountyTime": 12262.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Kitkit (bounty), bountyTime=12262.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "6aa86f14-08bf-4d05-81eb-e1e735327d1e",
+      "rowid": 1360,
+      "hunterId": "8436",
+      "hunterName": "Rusty",
+      "bountyId": "8035",
+      "bountyName": "Bootleg ",
+      "hunterTime": 20716.0,
+      "bountyTime": 433.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Rusty (hunter), hunterTime=20716.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "1f63c879-bd93-4556-b850-c4c4414b0d87",
+      "rowid": 1415,
+      "hunterId": "2584",
+      "hunterName": "Lux",
+      "bountyId": "4620",
+      "bountyName": "g1dg3t",
+      "hunterTime": 552.0,
+      "bountyTime": 3626.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "g1dg3t (bounty), bountyTime=3626.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "f8852997-1aad-4ffd-aa07-55bacaab3844",
+      "rowid": 1419,
+      "hunterId": "3656",
+      "hunterName": "ninja inferno",
+      "bountyId": "7580",
+      "bountyName": "Real Deal",
+      "hunterTime": 5720.0,
+      "bountyTime": 334.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "ninja inferno (hunter), hunterTime=5720.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "26398883-b350-4ea9-bece-7b4cfdc412a1",
+      "rowid": 1533,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "6040",
+      "bountyName": "Cheese 🧀 ",
+      "hunterTime": 4704.0,
+      "bountyTime": 3953.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Hot-Lock (hunter), hunterTime=4704.0; Cheese 🧀  (bounty), bountyTime=3953.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "d7fa1b4a-6f31-47af-b11b-57ffb6d844ac",
+      "rowid": 1729,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "5222",
+      "bountyName": "circuit mouse",
+      "hunterTime": 3844.0,
+      "bountyTime": 3118.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Hot-Lock (hunter), hunterTime=3844.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "58ad0135-9cfc-499c-8d02-b24525374268",
+      "rowid": 1876,
+      "hunterId": "3096",
+      "hunterName": "Mil0",
+      "bountyId": "4620",
+      "bountyName": "g1dg3t",
+      "hunterTime": 5534.0,
+      "bountyTime": 166.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Mil0 (hunter), hunterTime=5534.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "e61aa64b-c8c8-49ef-a106-6f5ea713bbdc",
+      "rowid": 2052,
+      "hunterId": "5499",
+      "hunterName": "haxlotl",
+      "bountyId": "4620",
+      "bountyName": "g1dg3t",
+      "hunterTime": 4255.0,
+      "bountyTime": 189.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "haxlotl (hunter), hunterTime=4255.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "892848fe-5f29-4f51-a6e0-291edbeb8435",
+      "rowid": 2090,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "5024",
+      "bountyName": "Lag",
+      "hunterTime": 10803.0,
+      "bountyTime": 852.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Hot-Lock (hunter), hunterTime=10803.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "dd1faeb7-2b72-4dad-a065-312c743cbae4",
+      "rowid": 2142,
+      "hunterId": "6694",
+      "hunterName": "Ubik",
+      "bountyId": "7221",
+      "bountyName": "Nexus",
+      "hunterTime": 4203.0,
+      "bountyTime": 287.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Ubik (hunter), hunterTime=4203.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "1c3b2b0e-6c22-4007-b333-7232d374a915",
+      "rowid": 2146,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "6170",
+      "bountyName": "3M1L7",
+      "hunterTime": 219.0,
+      "bountyTime": 4300.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "3M1L7 (bounty), bountyTime=4300.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "7462f52e-bd86-488e-bf0b-4b94cbad2099",
+      "rowid": 2183,
+      "hunterId": "2350",
+      "hunterName": "Duncan",
+      "bountyId": "1090",
+      "bountyName": "Capt Timmah",
+      "hunterTime": 9355.0,
+      "bountyTime": 341.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Duncan (hunter), hunterTime=9355.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "ae46bead-3c0c-4a57-baaa-79031233ea8f",
+      "rowid": 2342,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "3594",
+      "bountyName": "whokilledkenny",
+      "hunterTime": 119.0,
+      "bountyTime": 3601.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "whokilledkenny (bounty), bountyTime=3601.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "f0f8622a-415e-46fc-a853-584cb06b7b9d",
+      "rowid": 2359,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "1800",
+      "bountyName": "Pigeon",
+      "hunterTime": 172.0,
+      "bountyTime": 4335.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Pigeon (bounty), bountyTime=4335.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "e61a4591-c8c8-4bcc-a106-7abea7134379",
+      "rowid": 2373,
+      "hunterId": "0885",
+      "hunterName": "Trip-Wire",
+      "bountyId": "6040",
+      "bountyName": "Cheese 🧀 ",
+      "hunterTime": 5019.0,
+      "bountyTime": 103.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Trip-Wire (hunter), hunterTime=5019.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "10ec1a74-f66d-4ca0-8459-c9cc5287d935",
+      "rowid": 2514,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "1800",
+      "bountyName": "Pigeon",
+      "hunterTime": 224.0,
+      "bountyTime": 9590.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Pigeon (bounty), bountyTime=9590.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "6ca615c2-e98b-4e0c-bb20-49655acfd738",
+      "rowid": 2593,
+      "hunterId": "8804",
+      "hunterName": "Hacter",
+      "bountyId": "7580",
+      "bountyName": "Real Deal",
+      "hunterTime": 3939.0,
+      "bountyTime": 244.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Hacter (hunter), hunterTime=3939.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "1e693345-b15c-4a43-8e32-d74632cac13b",
+      "rowid": 2769,
+      "hunterId": "0860",
+      "hunterName": "Crow_H",
+      "bountyId": "6040",
+      "bountyName": "Cheese 🧀 ",
+      "hunterTime": 19353.0,
+      "bountyTime": 177.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Crow_H (hunter), hunterTime=19353.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "953f0ca1-3ed9-4994-acba-b618d3dffbe5",
+      "rowid": 2979,
+      "hunterId": "8386",
+      "hunterName": "Teck-eee!",
+      "bountyId": "6040",
+      "bountyName": "Cheese 🧀 ",
+      "hunterTime": 4905.0,
+      "bountyTime": 378.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Teck-eee! (hunter), hunterTime=4905.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "7558e31c-12d9-4fe7-be44-320a8df09d07",
+      "rowid": 3003,
+      "hunterId": "3415",
+      "hunterName": "Hot-Lock",
+      "bountyId": "5034",
+      "bountyName": "Techno",
+      "hunterTime": 22725.0,
+      "bountyTime": 1010.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Hot-Lock (hunter), hunterTime=22725.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "d7d641f0-9ed7-43a8-aec2-2367535f6b4e",
+      "rowid": 3019,
+      "hunterId": "7536",
+      "hunterName": "Golden",
+      "bountyId": "1090",
+      "bountyName": "Capt Timmah",
+      "hunterTime": 10541.0,
+      "bountyTime": 247.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Golden (hunter), hunterTime=10541.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "807bef9d-0f56-4234-94da-5106f8f11268",
+      "rowid": 3246,
+      "hunterId": "6694",
+      "hunterName": "Ubik",
+      "bountyId": "7221",
+      "bountyName": "Nexus",
+      "hunterTime": 4810.0,
+      "bountyTime": 314.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Ubik (hunter), hunterTime=4810.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "6897ad99-092c-4575-86e4-7d98073f632c",
+      "rowid": 3371,
+      "hunterId": "6500",
+      "hunterName": "Nighty",
+      "bountyId": "8901",
+      "bountyName": "Vell",
+      "hunterTime": 2886.0,
+      "bountyTime": 3643.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Vell (bounty), bountyTime=3643.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "ab930dd0-5f02-4a0f-b6a5-7f42d7c80aaa",
+      "rowid": 3503,
+      "hunterId": "6230",
+      "hunterName": "Boom-Box",
+      "bountyId": "6040",
+      "bountyName": "Cheese 🧀 ",
+      "hunterTime": 4469.0,
+      "bountyTime": 3784.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Boom-Box (hunter), hunterTime=4469.0; Cheese 🧀  (bounty), bountyTime=3784.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "7b4a782f-f0a8-485d-9eb6-4315bfda48d4",
+      "rowid": 3522,
+      "hunterId": "7428",
+      "hunterName": "Hugbot-V6.9",
+      "bountyId": "2270",
+      "bountyName": "the commandant",
+      "hunterTime": 295.0,
+      "bountyTime": 4465.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "the commandant (bounty), bountyTime=4465.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "d2c4926f-2cf4-4be1-88d0-45a18a99e899",
+      "rowid": 3582,
+      "hunterId": "8386",
+      "hunterName": "Teck-eee!",
+      "bountyId": "0431",
+      "bountyName": "ceph",
+      "hunterTime": 27186.0,
+      "bountyTime": 160.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Teck-eee! (hunter), hunterTime=27186.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "f662ff30-b406-4789-af3a-d0082ddcba95",
+      "rowid": 3664,
+      "hunterId": "7603",
+      "hunterName": "Otirik",
+      "bountyId": "0738",
+      "bountyName": "Mettrix",
+      "hunterTime": 162.0,
+      "bountyTime": 5172.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Mettrix (bounty), bountyTime=5172.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "5a0c24aa-f388-4d07-9920-3da4c3bc3c96",
+      "rowid": 3816,
+      "hunterId": "8606",
+      "hunterName": "Reggie Bloodletter",
+      "bountyId": "9448",
+      "bountyName": "piper",
+      "hunterTime": 75.0,
+      "bountyTime": 4071.0,
+      "hunterReactionTimeInsane": false,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "piper (bounty), bountyTime=4071.0",
+      "winnerIsHunter": true
+    },
+    {
+      "matchId": "f662e145-b406-4a64-af3a-11c22ddc529f",
+      "rowid": 4005,
+      "hunterId": "8386",
+      "hunterName": "Teck-eee!",
+      "bountyId": "0431",
+      "bountyName": "ceph",
+      "hunterTime": 3659.0,
+      "bountyTime": 20.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": false,
+      "insanePlayersSummary": "Teck-eee! (hunter), hunterTime=3659.0",
+      "winnerIsHunter": false
+    },
+    {
+      "matchId": "a7076ac7-ac49-4be7-80ad-8c1dd12615ae",
+      "rowid": 4013,
+      "hunterId": "7536",
+      "hunterName": "Golden",
+      "bountyId": "8187",
+      "bountyName": "Rascal",
+      "hunterTime": 4048.0,
+      "bountyTime": 4734.0,
+      "hunterReactionTimeInsane": true,
+      "bountyReactionTimeInsane": true,
+      "insanePlayersSummary": "Golden (hunter), hunterTime=4048.0; Rascal (bounty), bountyTime=4734.0",
+      "winnerIsHunter": true
+    }
+  ],
+  "maxSaneTimeSeconds": 3600,
+  "minRankedMatches": 10,
+  "excludesZeroReactionTimesFromTimeStats": true
+}

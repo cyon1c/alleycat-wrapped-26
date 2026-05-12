@@ -1,0 +1,81 @@
+{
+  "id": "2671",
+  "name": "W0jtek",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 20,
+  "wins": 3,
+  "losses": 17,
+  "winRate": 0.15,
+  "avgTime": 526.0,
+  "fastestTime": 152.0,
+  "slowestTime": 1325.0,
+  "totalTimeSeconds": 10520.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 9
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "1995",
+    "name": "Maxx",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 7,
+      "totalMatches": 7
+    },
+    {
+      "id": "7428",
+      "name": "Hugbot-V6.9",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8722",
+      "name": "Pink Sheep",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.16666666666666666,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.15,
+  "avgMarginOfVictory": 330.0,
+  "globalRank": 112,
+  "roleRank": 64
+}

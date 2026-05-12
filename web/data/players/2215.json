@@ -1,0 +1,74 @@
+{
+  "id": "2215",
+  "name": "L7",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 1,
+  "losses": 5,
+  "winRate": 0.16666666666666666,
+  "avgTime": 493.8333333333333,
+  "fastestTime": 371.0,
+  "slowestTime": 699.0,
+  "totalTimeSeconds": 2963.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "5635",
+    "name": "Love",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5635",
+      "name": "Love",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.16666666666666666,
+  "avgMarginOfVictory": 21.0,
+  "globalRank": null,
+  "roleRank": null
+}

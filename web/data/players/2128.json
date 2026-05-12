@@ -1,0 +1,81 @@
+{
+  "id": "2128",
+  "name": "Kal",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 1,
+  "losses": 9,
+  "winRate": 0.1,
+  "avgTime": 1057.7,
+  "fastestTime": 551.0,
+  "slowestTime": 2568.0,
+  "totalTimeSeconds": 10577.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "7506",
+    "name": "J^2",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.1,
+  "avgMarginOfVictory": 1775.0,
+  "globalRank": 136,
+  "roleRank": 76
+}

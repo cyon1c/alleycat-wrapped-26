@@ -1,0 +1,81 @@
+{
+  "id": "2926",
+  "name": "Rusti_h",
+  "role": "hunter",
+  "faction": "Electrosnake",
+  "totalMatches": 9,
+  "wins": 4,
+  "losses": 5,
+  "winRate": 0.4444444444444444,
+  "avgTime": 448.22222222222223,
+  "fastestTime": 205.0,
+  "slowestTime": 988.0,
+  "totalTimeSeconds": 4034.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "2273",
+    "name": "Jack-52",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6153",
+      "name": "ARK-IV",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 399.0,
+  "globalRank": null,
+  "roleRank": null
+}

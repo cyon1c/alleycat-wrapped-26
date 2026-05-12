@@ -1,0 +1,49 @@
+{
+  "id": "0885",
+  "name": "Trip-Wire",
+  "role": "hunter",
+  "faction": "UA",
+  "totalMatches": 1,
+  "wins": 0,
+  "losses": 1,
+  "winRate": 0.0,
+  "avgTime": null,
+  "fastestTime": null,
+  "slowestTime": null,
+  "totalTimeSeconds": 0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

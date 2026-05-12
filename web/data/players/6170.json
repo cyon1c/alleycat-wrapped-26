@@ -1,0 +1,81 @@
+{
+  "id": "6170",
+  "name": "3M1L7",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 13,
+  "wins": 3,
+  "losses": 10,
+  "winRate": 0.23076923076923078,
+  "avgTime": 524.6666666666666,
+  "fastestTime": 244.0,
+  "slowestTime": 762.0,
+  "totalTimeSeconds": 6296.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "0436",
+    "name": "felis stray",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0652",
+      "name": "Naile",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.23076923076923078,
+  "avgMarginOfVictory": 333.0,
+  "globalRank": 112,
+  "roleRank": 64
+}

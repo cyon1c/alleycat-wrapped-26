@@ -1,0 +1,81 @@
+{
+  "id": "5024",
+  "name": "Lag",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 56,
+  "wins": 21,
+  "losses": 35,
+  "winRate": 0.375,
+  "avgTime": 616.9636363636364,
+  "fastestTime": 8.0,
+  "slowestTime": 3542.0,
+  "totalTimeSeconds": 33933.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 21,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "7603",
+    "name": "Otirik",
+    "winsAgainst": 4
+  },
+  "rival": {
+    "id": "7603",
+    "name": "Otirik",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "7603",
+      "name": "Otirik",
+      "wins": 4,
+      "losses": 7,
+      "totalMatches": 11
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 3,
+      "losses": 7,
+      "totalMatches": 10
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 4,
+      "losses": 5,
+      "totalMatches": 9
+    },
+    {
+      "id": "2368",
+      "name": "Skitz",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2777777777777778,
+    "lateWinRate": 0.2777777777777778
+  },
+  "escapeRate": 0.375,
+  "avgMarginOfVictory": 245.55,
+  "globalRank": 34,
+  "roleRank": 16
+}

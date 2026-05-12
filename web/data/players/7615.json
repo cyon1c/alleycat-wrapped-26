@@ -1,0 +1,81 @@
+{
+  "id": "7615",
+  "name": "Tr@$h",
+  "role": "bounty",
+  "faction": "g://0st",
+  "totalMatches": 19,
+  "wins": 10,
+  "losses": 9,
+  "winRate": 0.5263157894736842,
+  "avgTime": 427.7894736842105,
+  "fastestTime": 110.0,
+  "slowestTime": 982.0,
+  "totalTimeSeconds": 8128.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 16,
+  "nemesis": {
+    "id": "0436",
+    "name": "felis stray",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6567",
+    "name": "Mikey Miles ",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "2145",
+    "name": "Z-kay",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "2145",
+      "name": "Z-kay",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6567",
+      "name": "Mikey Miles ",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "7935",
+      "name": "J@ck@l",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8333333333333334,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.5263157894736842,
+  "avgMarginOfVictory": 521.6,
+  "globalRank": 56,
+  "roleRank": 30
+}

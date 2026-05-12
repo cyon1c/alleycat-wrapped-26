@@ -1,0 +1,81 @@
+{
+  "id": "0639",
+  "name": "Kira Kalas",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 3,
+  "losses": 4,
+  "winRate": 0.42857142857142855,
+  "avgTime": 487.0,
+  "fastestTime": 234.0,
+  "slowestTime": 994.0,
+  "totalTimeSeconds": 3409.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3955",
+    "name": "Nuxx-B",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3955",
+    "name": "Nuxx-B",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3955",
+      "name": "Nuxx-B",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3956",
+      "name": "Luxx",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7221",
+      "name": "Nexus",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9090",
+      "name": "M3M0",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 395.6666666666667,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1928",
+  "name": "Kilunspre",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 24,
+  "wins": 18,
+  "losses": 6,
+  "winRate": 0.75,
+  "avgTime": 413.5833333333333,
+  "fastestTime": 40.0,
+  "slowestTime": 1714.0,
+  "totalTimeSeconds": 9926.0,
+  "longestWinStreak": 9,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "3594",
+    "name": "whokilledkenny",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    },
+    {
+      "id": "3594",
+      "name": "whokilledkenny",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "9890",
+      "name": "malcolm in the middle",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.75,
+    "lateWinRate": 0.625
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 188.88888888888889,
+  "globalRank": 37,
+  "roleRank": 21
+}

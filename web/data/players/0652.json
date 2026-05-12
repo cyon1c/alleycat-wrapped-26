@@ -1,0 +1,81 @@
+{
+  "id": "0652",
+  "name": "Naile",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 2,
+  "losses": 4,
+  "winRate": 0.3333333333333333,
+  "avgTime": 676.6666666666666,
+  "fastestTime": 393.0,
+  "slowestTime": 1037.0,
+  "totalTimeSeconds": 4060.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "2324",
+    "name": "XAM TIGE",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2324",
+      "name": "XAM TIGE",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6170",
+      "name": "3M1L7",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7221",
+      "name": "Nexus",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8527",
+      "name": "mr. red",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 444.5,
+  "globalRank": null,
+  "roleRank": null
+}

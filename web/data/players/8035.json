@@ -1,0 +1,81 @@
+{
+  "id": "8035",
+  "name": "Bootleg ",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 55,
+  "wins": 29,
+  "losses": 26,
+  "winRate": 0.5272727272727272,
+  "avgTime": 393.75471698113205,
+  "fastestTime": 47.0,
+  "slowestTime": 1436.0,
+  "totalTimeSeconds": 20869.0,
+  "longestWinStreak": 8,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 29,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 4
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 4,
+      "losses": 5,
+      "totalMatches": 9
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "7428",
+      "name": "Hugbot-V6.9",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.5272727272727272,
+  "avgMarginOfVictory": 300.22222222222223,
+  "globalRank": 30,
+  "roleRank": 14
+}

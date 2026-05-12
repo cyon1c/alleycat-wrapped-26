@@ -1,0 +1,81 @@
+{
+  "id": "6193",
+  "name": "Neos antrax",
+  "role": "hunter",
+  "faction": "Oricon",
+  "totalMatches": 19,
+  "wins": 5,
+  "losses": 14,
+  "winRate": 0.2631578947368421,
+  "avgTime": 600.8421052631579,
+  "fastestTime": 192.0,
+  "slowestTime": 999.0,
+  "totalTimeSeconds": 11416.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 11,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "4302",
+    "name": "Disco Bastard",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "0644",
+      "name": "Coyote ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 358.8,
+  "globalRank": 95,
+  "roleRank": 43
+}

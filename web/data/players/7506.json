@@ -1,0 +1,81 @@
+{
+  "id": "7506",
+  "name": "J^2",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 28,
+  "wins": 3,
+  "losses": 25,
+  "winRate": 0.10714285714285714,
+  "avgTime": 800.9285714285714,
+  "fastestTime": 312.0,
+  "slowestTime": 2862.0,
+  "totalTimeSeconds": 22426.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 10,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 18,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "5024",
+    "name": "Lag",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "9890",
+      "name": "malcolm in the middle",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.1111111111111111,
+    "lateWinRate": 0.1111111111111111
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 403.0,
+  "globalRank": 112,
+  "roleRank": 49
+}

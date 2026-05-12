@@ -1,0 +1,81 @@
+{
+  "id": "8722",
+  "name": "Pink Sheep",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 23,
+  "wins": 6,
+  "losses": 17,
+  "winRate": 0.2608695652173913,
+  "avgTime": 679.9090909090909,
+  "fastestTime": 35.0,
+  "slowestTime": 2701.0,
+  "totalTimeSeconds": 14958.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "0362",
+    "name": "bubblez",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 8
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 2,
+      "losses": 6,
+      "totalMatches": 8
+    },
+    {
+      "id": "0362",
+      "name": "bubblez",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "9303",
+      "name": "Jackal",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "2671",
+      "name": "W0jtek",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.14285714285714285,
+    "lateWinRate": 0.14285714285714285
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 345.1666666666667,
+  "globalRank": 86,
+  "roleRank": 39
+}

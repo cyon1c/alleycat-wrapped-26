@@ -1,0 +1,81 @@
+{
+  "id": "0231",
+  "name": "Creature Comforts",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 18,
+  "wins": 2,
+  "losses": 16,
+  "winRate": 0.1111111111111111,
+  "avgTime": 559.2222222222222,
+  "fastestTime": 91.0,
+  "slowestTime": 3418.0,
+  "totalTimeSeconds": 10066.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 12,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "6735",
+    "name": "Cayde",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "1749",
+    "name": "Crow",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6735",
+    "name": "Cayde",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 7,
+      "totalMatches": 7
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1749",
+      "name": "Crow",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.16666666666666666,
+    "lateWinRate": 0.16666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 125.5,
+  "globalRank": 123,
+  "roleRank": 55
+}

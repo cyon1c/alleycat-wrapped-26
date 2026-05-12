@@ -1,0 +1,81 @@
+{
+  "id": "0436",
+  "name": "felis stray",
+  "role": "hunter",
+  "faction": "trash panda salvage",
+  "totalMatches": 175,
+  "wins": 98,
+  "losses": 77,
+  "winRate": 0.56,
+  "avgTime": 330.98285714285714,
+  "fastestTime": 10.0,
+  "slowestTime": 2050.0,
+  "totalTimeSeconds": 57922.0,
+  "longestWinStreak": 7,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 62,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 14
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 11
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 25
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 11,
+      "losses": 14,
+      "totalMatches": 25
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 6,
+      "losses": 9,
+      "totalMatches": 15
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 10,
+      "totalMatches": 11
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 5,
+      "losses": 6,
+      "totalMatches": 11
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 6,
+      "losses": 2,
+      "totalMatches": 8
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5172413793103449,
+    "lateWinRate": 0.5689655172413793
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 398.9387755102041,
+  "globalRank": 10,
+  "roleRank": 4
+}

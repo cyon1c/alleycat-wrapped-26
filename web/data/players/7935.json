@@ -1,0 +1,81 @@
+{
+  "id": "7935",
+  "name": "J@ck@l",
+  "role": "hunter",
+  "faction": "g://0st",
+  "totalMatches": 6,
+  "wins": 2,
+  "losses": 4,
+  "winRate": 0.3333333333333333,
+  "avgTime": 670.6666666666666,
+  "fastestTime": 353.0,
+  "slowestTime": 1028.0,
+  "totalTimeSeconds": 4024.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "7615",
+    "name": "Tr@$h",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "6364",
+    "name": "Hutch",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7615",
+    "name": "Tr@$h",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "7615",
+      "name": "Tr@$h",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3594",
+      "name": "whokilledkenny",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4063",
+      "name": "Blorbo",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6364",
+      "name": "Hutch",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8221",
+      "name": "Dr. Chops",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 324.0,
+  "globalRank": null,
+  "roleRank": null
+}

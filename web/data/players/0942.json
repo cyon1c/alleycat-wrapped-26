@@ -1,0 +1,81 @@
+{
+  "id": "0942",
+  "name": "Rathe ",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 17,
+  "wins": 6,
+  "losses": 11,
+  "winRate": 0.35294117647058826,
+  "avgTime": 527.2941176470588,
+  "fastestTime": 255.0,
+  "slowestTime": 1114.0,
+  "totalTimeSeconds": 8964.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "win",
+    "count": 3
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "9548",
+    "name": "Widget",
+    "winsAgainst": 6
+  },
+  "rival": {
+    "id": "9548",
+    "name": "Widget",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "9548",
+      "name": "Widget",
+      "wins": 6,
+      "losses": 1,
+      "totalMatches": 7
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.6
+  },
+  "escapeRate": 0.35294117647058826,
+  "avgMarginOfVictory": 355.5,
+  "globalRank": 86,
+  "roleRank": 48
+}

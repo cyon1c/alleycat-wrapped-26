@@ -1,0 +1,70 @@
+{
+  "id": "9179",
+  "name": "Orbit",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 0,
+  "losses": 8,
+  "winRate": 0.0,
+  "avgTime": 741.625,
+  "fastestTime": 384.0,
+  "slowestTime": 1961.0,
+  "totalTimeSeconds": 5933.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 3
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "2318",
+      "name": "Hijax",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

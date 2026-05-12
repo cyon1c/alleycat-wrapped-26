@@ -1,0 +1,81 @@
+{
+  "id": "7821",
+  "name": "Grav Bomb",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 19,
+  "wins": 6,
+  "losses": 13,
+  "winRate": 0.3157894736842105,
+  "avgTime": 500.2105263157895,
+  "fastestTime": 7.0,
+  "slowestTime": 958.0,
+  "totalTimeSeconds": 9504.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "0558",
+    "name": "Aria ",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 5,
+      "totalMatches": 6
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "0558",
+      "name": "Aria ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "0636",
+      "name": "Ramona",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.16666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 251.16666666666666,
+  "globalRank": 86,
+  "roleRank": 39
+}

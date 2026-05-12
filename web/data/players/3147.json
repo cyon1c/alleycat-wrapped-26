@@ -1,0 +1,81 @@
+{
+  "id": "3147",
+  "name": "Dunkin",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 1,
+  "losses": 6,
+  "winRate": 0.14285714285714285,
+  "avgTime": 398.7142857142857,
+  "fastestTime": 185.0,
+  "slowestTime": 897.0,
+  "totalTimeSeconds": 2791.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "7605",
+    "name": "Kip",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "7605",
+      "name": "Kip",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.14285714285714285,
+  "avgMarginOfVictory": 207.0,
+  "globalRank": null,
+  "roleRank": null
+}

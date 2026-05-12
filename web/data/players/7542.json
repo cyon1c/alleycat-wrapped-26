@@ -1,0 +1,81 @@
+{
+  "id": "7542",
+  "name": "Bodi",
+  "role": "hunter",
+  "faction": "kaiju",
+  "totalMatches": 9,
+  "wins": 4,
+  "losses": 5,
+  "winRate": 0.4444444444444444,
+  "avgTime": 401.77777777777777,
+  "fastestTime": 23.0,
+  "slowestTime": 882.0,
+  "totalTimeSeconds": 3616.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3890",
+      "name": "J dubbz",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4302",
+      "name": "Disco Bastard",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4386",
+      "name": "Shaft",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 270.25,
+  "globalRank": null,
+  "roleRank": null
+}

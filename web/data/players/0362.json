@@ -1,0 +1,81 @@
+{
+  "id": "0362",
+  "name": "bubblez",
+  "role": "bounty",
+  "faction": "pegasus.exe",
+  "totalMatches": 79,
+  "wins": 40,
+  "losses": 39,
+  "winRate": 0.5063291139240507,
+  "avgTime": 422.62025316455697,
+  "fastestTime": 45.0,
+  "slowestTime": 2003.0,
+  "totalTimeSeconds": 33387.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 13,
+  "nemesis": {
+    "id": "4540",
+    "name": "Turb0",
+    "lossesTo": 20
+  },
+  "prey": {
+    "id": "4540",
+    "name": "Turb0",
+    "winsAgainst": 21
+  },
+  "rival": {
+    "id": "4540",
+    "name": "Turb0",
+    "totalMatches": 41
+  },
+  "topOpponents": [
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 21,
+      "losses": 20,
+      "totalMatches": 41
+    },
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 6,
+      "losses": 8,
+      "totalMatches": 14
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "0171",
+      "name": "Pollux-hunter",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5384615384615384,
+    "lateWinRate": 0.5769230769230769
+  },
+  "escapeRate": 0.5063291139240507,
+  "avgMarginOfVictory": 454.525,
+  "globalRank": 24,
+  "roleRank": 11
+}

@@ -1,0 +1,81 @@
+{
+  "id": "9246",
+  "name": "7imber",
+  "role": "bounty",
+  "faction": "the exiled",
+  "totalMatches": 28,
+  "wins": 16,
+  "losses": 12,
+  "winRate": 0.5714285714285714,
+  "avgTime": 250.03703703703704,
+  "fastestTime": 21.0,
+  "slowestTime": 975.0,
+  "totalTimeSeconds": 6751.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 15,
+  "nemesis": {
+    "id": "0171",
+    "name": "Pollux-hunter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "6448",
+    "name": "D0g",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "0171",
+      "name": "Pollux-hunter",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "6448",
+      "name": "D0g",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5555555555555556,
+    "lateWinRate": 0.4444444444444444
+  },
+  "escapeRate": 0.5714285714285714,
+  "avgMarginOfVictory": 297.8,
+  "globalRank": 40,
+  "roleRank": 18
+}

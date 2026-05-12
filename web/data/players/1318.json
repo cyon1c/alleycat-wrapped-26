@@ -1,0 +1,77 @@
+{
+  "id": "1318",
+  "name": "Kiwi",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 0,
+  "losses": 11,
+  "winRate": 0.0,
+  "avgTime": 774.6363636363636,
+  "fastestTime": 240.0,
+  "slowestTime": 1669.0,
+  "totalTimeSeconds": 8521.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 11,
+  "currentStreak": {
+    "type": "loss",
+    "count": 11
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 3
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "2654",
+      "name": "Polaris",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": 139,
+  "roleRank": 78
+}

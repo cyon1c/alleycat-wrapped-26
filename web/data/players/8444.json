@@ -1,0 +1,60 @@
+{
+  "id": "8444",
+  "name": "Nu11_US3R-Hunter",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 463.4,
+  "fastestTime": 295.0,
+  "slowestTime": 633.0,
+  "totalTimeSeconds": 2317.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "7962",
+    "name": "Malware",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "7962",
+    "name": "Malware",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "7962",
+    "name": "Malware",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "7962",
+      "name": "Malware",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 75.5,
+  "globalRank": null,
+  "roleRank": null
+}

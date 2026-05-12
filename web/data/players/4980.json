@@ -1,0 +1,49 @@
+{
+  "id": "4980",
+  "name": "Thego",
+  "role": "bounty",
+  "faction": "Trinity Star Traders",
+  "totalMatches": 2,
+  "wins": 2,
+  "losses": 0,
+  "winRate": 1.0,
+  "avgTime": 322.0,
+  "fastestTime": 211.0,
+  "slowestTime": 433.0,
+  "totalTimeSeconds": 644.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 0,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 1,
+  "nemesis": null,
+  "prey": {
+    "id": "5422",
+    "name": "Manuka",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "5422",
+    "name": "Manuka",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5422",
+      "name": "Manuka",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": 1.0,
+  "avgMarginOfVictory": 483.5,
+  "globalRank": null,
+  "roleRank": null
+}

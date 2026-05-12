@@ -1,0 +1,77 @@
+{
+  "id": "7331",
+  "name": "Side Channel",
+  "role": "bounty",
+  "faction": "Prosperity Crew",
+  "totalMatches": 13,
+  "wins": 0,
+  "losses": 13,
+  "winRate": 0.0,
+  "avgTime": 816.8461538461538,
+  "fastestTime": 235.0,
+  "slowestTime": 2172.0,
+  "totalTimeSeconds": 10619.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 13,
+  "currentStreak": {
+    "type": "loss",
+    "count": 13
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "5499",
+    "name": "haxlotl",
+    "lossesTo": 3
+  },
+  "prey": null,
+  "rival": {
+    "id": "5499",
+    "name": "haxlotl",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "6862",
+      "name": "Xor0",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": 139,
+  "roleRank": 78
+}

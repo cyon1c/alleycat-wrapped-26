@@ -1,0 +1,81 @@
+{
+  "id": "4620",
+  "name": "g1dg3t",
+  "role": "bounty",
+  "faction": "UA",
+  "totalMatches": 261,
+  "wins": 193,
+  "losses": 68,
+  "winRate": 0.7394636015325671,
+  "avgTime": 208.36046511627907,
+  "fastestTime": 7.0,
+  "slowestTime": 3045.0,
+  "totalTimeSeconds": 53757.0,
+  "longestWinStreak": 26,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 61,
+  "nemesis": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "lossesTo": 16
+  },
+  "prey": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "winsAgainst": 22
+  },
+  "rival": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "totalMatches": 38
+  },
+  "topOpponents": [
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 22,
+      "losses": 16,
+      "totalMatches": 38
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 10,
+      "losses": 14,
+      "totalMatches": 24
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 14,
+      "losses": 7,
+      "totalMatches": 21
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 13,
+      "losses": 5,
+      "totalMatches": 18
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 7,
+      "losses": 6,
+      "totalMatches": 13
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8045977011494253,
+    "lateWinRate": 0.6551724137931034
+  },
+  "escapeRate": 0.7394636015325671,
+  "avgMarginOfVictory": 389.9842931937173,
+  "globalRank": 4,
+  "roleRank": 2
+}

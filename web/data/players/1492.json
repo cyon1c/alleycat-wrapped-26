@@ -1,0 +1,81 @@
+{
+  "id": "1492",
+  "name": "C.O.K.E",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 15,
+  "wins": 9,
+  "losses": 6,
+  "winRate": 0.6,
+  "avgTime": 385.1333333333333,
+  "fastestTime": 36.0,
+  "slowestTime": 1619.0,
+  "totalTimeSeconds": 5777.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "4457",
+    "name": "Bonesaw",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "4457",
+      "name": "Bonesaw",
+      "wins": 3,
+      "losses": 2,
+      "totalMatches": 5
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "2368",
+      "name": "Skitz",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8,
+    "lateWinRate": 0.8
+  },
+  "escapeRate": 0.6,
+  "avgMarginOfVictory": 413.1111111111111,
+  "globalRank": 59,
+  "roleRank": 33
+}

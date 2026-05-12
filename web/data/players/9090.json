@@ -1,0 +1,81 @@
+{
+  "id": "9090",
+  "name": "M3M0",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 29,
+  "wins": 11,
+  "losses": 18,
+  "winRate": 0.3793103448275862,
+  "avgTime": 477.55172413793105,
+  "fastestTime": 201.0,
+  "slowestTime": 1226.0,
+  "totalTimeSeconds": 13849.0,
+  "longestWinStreak": 6,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 21,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "0639",
+      "name": "Kira Kalas",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.1111111111111111,
+    "lateWinRate": 0.4444444444444444
+  },
+  "escapeRate": 0.3793103448275862,
+  "avgMarginOfVictory": 333.72727272727275,
+  "globalRank": 52,
+  "roleRank": 28
+}

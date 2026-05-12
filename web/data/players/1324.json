@@ -1,0 +1,81 @@
+{
+  "id": "1324",
+  "name": "Shakes",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 1,
+  "losses": 7,
+  "winRate": 0.125,
+  "avgTime": 257.875,
+  "fastestTime": 63.0,
+  "slowestTime": 484.0,
+  "totalTimeSeconds": 2063.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "4261",
+    "name": "The Detective",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6448",
+      "name": "D0g",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.125,
+  "avgMarginOfVictory": 85.0,
+  "globalRank": null,
+  "roleRank": null
+}

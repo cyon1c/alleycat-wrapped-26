@@ -1,0 +1,81 @@
+{
+  "id": "3096",
+  "name": "Mil0",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 3,
+  "losses": 6,
+  "winRate": 0.3333333333333333,
+  "avgTime": 496.625,
+  "fastestTime": 87.0,
+  "slowestTime": 1214.0,
+  "totalTimeSeconds": 3973.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "8901",
+    "name": "Vell",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "1040",
+    "name": "scorcho",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1040",
+      "name": "scorcho",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 292.3333333333333,
+  "globalRank": null,
+  "roleRank": null
+}

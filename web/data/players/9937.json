@@ -1,0 +1,81 @@
+{
+  "id": "9937",
+  "name": "Mosfet",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 28,
+  "wins": 10,
+  "losses": 18,
+  "winRate": 0.35714285714285715,
+  "avgTime": 716.1851851851852,
+  "fastestTime": 47.0,
+  "slowestTime": 2660.0,
+  "totalTimeSeconds": 19337.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 8
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 6,
+      "totalMatches": 8
+    },
+    {
+      "id": "1747",
+      "name": "Rome",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "4038",
+      "name": "Fox",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4444444444444444,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.35714285714285715,
+  "avgMarginOfVictory": 539.2222222222222,
+  "globalRank": 56,
+  "roleRank": 30
+}

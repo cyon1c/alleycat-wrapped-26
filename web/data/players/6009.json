@@ -1,0 +1,81 @@
+{
+  "id": "6009",
+  "name": "Tomorrow",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 19,
+  "wins": 9,
+  "losses": 10,
+  "winRate": 0.47368421052631576,
+  "avgTime": 432.10526315789474,
+  "fastestTime": 38.0,
+  "slowestTime": 1925.0,
+  "totalTimeSeconds": 8210.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 3
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0817",
+      "name": "JayKaze",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.47368421052631576,
+  "avgMarginOfVictory": 315.8888888888889,
+  "globalRank": 59,
+  "roleRank": 33
+}

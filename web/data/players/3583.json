@@ -1,0 +1,81 @@
+{
+  "id": "3583",
+  "name": "gr33zst41n",
+  "role": "hunter",
+  "faction": "list",
+  "totalMatches": 9,
+  "wins": 2,
+  "losses": 7,
+  "winRate": 0.2222222222222222,
+  "avgTime": 535.875,
+  "fastestTime": 88.0,
+  "slowestTime": 1148.0,
+  "totalTimeSeconds": 4287.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "4842",
+    "name": "s3rv0-ai",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4842",
+      "name": "s3rv0-ai",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8035",
+      "name": "Bootleg ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4063",
+      "name": "Blorbo",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 110.0,
+  "globalRank": null,
+  "roleRank": null
+}

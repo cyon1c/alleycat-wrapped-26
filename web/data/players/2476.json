@@ -1,0 +1,81 @@
+{
+  "id": "2476",
+  "name": "Moxie",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 20,
+  "wins": 7,
+  "losses": 13,
+  "winRate": 0.35,
+  "avgTime": 423.25,
+  "fastestTime": 103.0,
+  "slowestTime": 887.0,
+  "totalTimeSeconds": 8465.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 17,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "1800",
+    "name": "Pigeon",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1800",
+      "name": "Pigeon",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.16666666666666666
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 338.0,
+  "globalRank": 76,
+  "roleRank": 34
+}

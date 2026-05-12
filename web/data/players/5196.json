@@ -1,0 +1,81 @@
+{
+  "id": "5196",
+  "name": "Cyonic",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 27,
+  "wins": 7,
+  "losses": 20,
+  "winRate": 0.25925925925925924,
+  "avgTime": 536.4444444444445,
+  "fastestTime": 204.0,
+  "slowestTime": 1259.0,
+  "totalTimeSeconds": 14484.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 9
+  },
+  "uniqueOpponents": 11,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "4261",
+    "name": "The Detective",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 7,
+      "totalMatches": 9
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.25925925925925924,
+  "avgMarginOfVictory": 358.57142857142856,
+  "globalRank": 76,
+  "roleRank": 43
+}

@@ -1,0 +1,81 @@
+{
+  "id": "7753",
+  "name": "Pipette",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 1,
+  "losses": 8,
+  "winRate": 0.1111111111111111,
+  "avgTime": 854.2222222222222,
+  "fastestTime": 649.0,
+  "slowestTime": 1219.0,
+  "totalTimeSeconds": 7688.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "2270",
+    "name": "the commandant",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "2270",
+    "name": "the commandant",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3841",
+      "name": "DDR",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 363.0,
+  "globalRank": null,
+  "roleRank": null
+}

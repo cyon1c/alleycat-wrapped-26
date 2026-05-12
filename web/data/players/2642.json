@@ -1,0 +1,81 @@
+{
+  "id": "2642",
+  "name": "Loki",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 20,
+  "wins": 7,
+  "losses": 13,
+  "winRate": 0.35,
+  "avgTime": 432.0,
+  "fastestTime": 179.0,
+  "slowestTime": 715.0,
+  "totalTimeSeconds": 8640.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 13,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "1747",
+    "name": "Rome",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1747",
+      "name": "Rome",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.35,
+  "avgMarginOfVictory": 474.57142857142856,
+  "globalRank": 76,
+  "roleRank": 43
+}

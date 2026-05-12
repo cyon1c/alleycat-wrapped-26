@@ -1,0 +1,81 @@
+{
+  "id": "6779",
+  "name": "T ",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 739.6,
+  "fastestTime": 448.0,
+  "slowestTime": 892.0,
+  "totalTimeSeconds": 3698.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "0436",
+    "name": "felis stray",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "4540",
+    "name": "Turb0",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0436",
+    "name": "felis stray",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9554",
+      "name": "Notto",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 93.5,
+  "globalRank": null,
+  "roleRank": null
+}

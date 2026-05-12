@@ -1,0 +1,81 @@
+{
+  "id": "8842",
+  "name": "Mr. Lim",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 3,
+  "losses": 7,
+  "winRate": 0.3,
+  "avgTime": 953.1,
+  "fastestTime": 351.0,
+  "slowestTime": 2787.0,
+  "totalTimeSeconds": 9531.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.3,
+  "avgMarginOfVictory": 416.0,
+  "globalRank": 112,
+  "roleRank": 64
+}

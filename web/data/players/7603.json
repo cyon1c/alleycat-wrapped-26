@@ -1,0 +1,81 @@
+{
+  "id": "7603",
+  "name": "Otirik",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 57,
+  "wins": 30,
+  "losses": 27,
+  "winRate": 0.5263157894736842,
+  "avgTime": 339.0,
+  "fastestTime": 15.0,
+  "slowestTime": 1471.0,
+  "totalTimeSeconds": 18984.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 19,
+  "nemesis": {
+    "id": "6735",
+    "name": "Cayde",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "5024",
+    "name": "Lag",
+    "winsAgainst": 7
+  },
+  "rival": {
+    "id": "5024",
+    "name": "Lag",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "5024",
+      "name": "Lag",
+      "wins": 7,
+      "losses": 4,
+      "totalMatches": 11
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 5,
+      "losses": 5,
+      "totalMatches": 10
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 3,
+      "losses": 4,
+      "totalMatches": 7
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5263157894736842,
+    "lateWinRate": 0.3684210526315789
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 396.0689655172414,
+  "globalRank": 29,
+  "roleRank": 16
+}

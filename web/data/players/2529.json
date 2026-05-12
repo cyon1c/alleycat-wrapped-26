@@ -1,0 +1,81 @@
+{
+  "id": "2529",
+  "name": "Orion ",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 41,
+  "wins": 15,
+  "losses": 26,
+  "winRate": 0.36585365853658536,
+  "avgTime": 491.4634146341463,
+  "fastestTime": 48.0,
+  "slowestTime": 1304.0,
+  "totalTimeSeconds": 20150.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 15,
+  "nemesis": {
+    "id": "8851",
+    "name": "Jehcee-B",
+    "lossesTo": 9
+  },
+  "prey": {
+    "id": "0558",
+    "name": "Aria ",
+    "winsAgainst": 6
+  },
+  "rival": {
+    "id": "0558",
+    "name": "Aria ",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "0558",
+      "name": "Aria ",
+      "wins": 6,
+      "losses": 5,
+      "totalMatches": 11
+    },
+    {
+      "id": "8851",
+      "name": "Jehcee-B",
+      "wins": 2,
+      "losses": 9,
+      "totalMatches": 11
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "4479",
+      "name": "HecksBug",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.23076923076923078,
+    "lateWinRate": 0.46153846153846156
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 389.26666666666665,
+  "globalRank": 43,
+  "roleRank": 23
+}

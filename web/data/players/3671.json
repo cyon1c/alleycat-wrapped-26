@@ -1,0 +1,81 @@
+{
+  "id": "3671",
+  "name": "Hardwire",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 12,
+  "wins": 5,
+  "losses": 7,
+  "winRate": 0.4166666666666667,
+  "avgTime": 623.8333333333334,
+  "fastestTime": 342.0,
+  "slowestTime": 1002.0,
+  "totalTimeSeconds": 7486.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "9653",
+    "name": "Tanooki",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "9653",
+      "name": "Tanooki",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2640",
+      "name": "R3D",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2880",
+      "name": "Victoream",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 481.0,
+  "globalRank": 95,
+  "roleRank": 43
+}

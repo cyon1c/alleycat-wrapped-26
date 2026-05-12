@@ -1,0 +1,81 @@
+{
+  "id": "0738",
+  "name": "Mettrix",
+  "role": "bounty",
+  "faction": "The13s",
+  "totalMatches": 13,
+  "wins": 5,
+  "losses": 8,
+  "winRate": 0.38461538461538464,
+  "avgTime": 597.4166666666666,
+  "fastestTime": 273.0,
+  "slowestTime": 1130.0,
+  "totalTimeSeconds": 7169.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2318",
+    "name": "Hijax",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "2318",
+    "name": "Hijax",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "2318",
+      "name": "Hijax",
+      "wins": 3,
+      "losses": 0,
+      "totalMatches": 3
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.38461538461538464,
+  "avgMarginOfVictory": 387.2,
+  "globalRank": 95,
+  "roleRank": 53
+}

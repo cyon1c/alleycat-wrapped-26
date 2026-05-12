@@ -1,0 +1,81 @@
+{
+  "id": "5635",
+  "name": "Love",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 33,
+  "wins": 11,
+  "losses": 22,
+  "winRate": 0.3333333333333333,
+  "avgTime": 584.59375,
+  "fastestTime": 129.0,
+  "slowestTime": 2161.0,
+  "totalTimeSeconds": 18707.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 10,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 12,
+  "nemesis": {
+    "id": "3890",
+    "name": "J dubbz",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3890",
+    "name": "J dubbz",
+    "winsAgainst": 7
+  },
+  "rival": {
+    "id": "3890",
+    "name": "J dubbz",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "3890",
+      "name": "J dubbz",
+      "wins": 7,
+      "losses": 4,
+      "totalMatches": 11
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 4,
+      "losses": 4,
+      "totalMatches": 8
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.45454545454545453,
+    "lateWinRate": 0.09090909090909091
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 331.6,
+  "globalRank": 52,
+  "roleRank": 25
+}

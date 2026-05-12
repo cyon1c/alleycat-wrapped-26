@@ -1,0 +1,74 @@
+{
+  "id": "2047",
+  "name": "Guard Dog",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 766.6,
+  "fastestTime": 461.0,
+  "slowestTime": 1362.0,
+  "totalTimeSeconds": 3833.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "3013",
+    "name": "Ace M",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5663",
+    "name": "Duckie",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5663",
+    "name": "Duckie",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3013",
+      "name": "Ace M",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7428",
+      "name": "Hugbot-V6.9",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 1586.0,
+  "globalRank": null,
+  "roleRank": null
+}

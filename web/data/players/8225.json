@@ -1,0 +1,67 @@
+{
+  "id": "8225",
+  "name": "arev",
+  "role": "bounty",
+  "faction": "UA",
+  "totalMatches": 4,
+  "wins": 1,
+  "losses": 3,
+  "winRate": 0.25,
+  "avgTime": 465.75,
+  "fastestTime": 83.0,
+  "slowestTime": 803.0,
+  "totalTimeSeconds": 1863.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.25,
+  "avgMarginOfVictory": 46.0,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "6559",
+  "name": "Talkie",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 3,
+  "losses": 5,
+  "winRate": 0.375,
+  "avgTime": 461.75,
+  "fastestTime": 244.0,
+  "slowestTime": 741.0,
+  "totalTimeSeconds": 3694.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5196",
+    "name": "Cyonic",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "0644",
+      "name": "Coyote ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2640",
+      "name": "R3D",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4665",
+      "name": "Shedd",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 89.0,
+  "globalRank": null,
+  "roleRank": null
+}

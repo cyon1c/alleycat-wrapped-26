@@ -1,0 +1,81 @@
+{
+  "id": "9880",
+  "name": "Copper",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 3,
+  "losses": 7,
+  "winRate": 0.3,
+  "avgTime": 830.9,
+  "fastestTime": 315.0,
+  "slowestTime": 2707.0,
+  "totalTimeSeconds": 8309.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "6785",
+    "name": "Bank",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "6785",
+    "name": "Bank",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "6785",
+    "name": "Bank",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "6785",
+      "name": "Bank",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6193",
+      "name": "Neos antrax",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.3,
+  "avgMarginOfVictory": 85.0,
+  "globalRank": 112,
+  "roleRank": 64
+}

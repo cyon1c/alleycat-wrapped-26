@@ -1,0 +1,81 @@
+{
+  "id": "9268",
+  "name": "Igor",
+  "role": "bounty",
+  "faction": "Albatross",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 917.8,
+  "fastestTime": 512.0,
+  "slowestTime": 1569.0,
+  "totalTimeSeconds": 4589.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "0639",
+    "name": "Kira Kalas",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0639",
+    "name": "Kira Kalas",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "0639",
+      "name": "Kira Kalas",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7379",
+      "name": "Oliver",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7428",
+      "name": "Hugbot-V6.9",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 186.5,
+  "globalRank": null,
+  "roleRank": null
+}

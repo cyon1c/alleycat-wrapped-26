@@ -1,0 +1,81 @@
+{
+  "id": "8851",
+  "name": "Jehcee-B",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 19,
+  "wins": 11,
+  "losses": 8,
+  "winRate": 0.5789473684210527,
+  "avgTime": 476.8888888888889,
+  "fastestTime": 225.0,
+  "slowestTime": 950.0,
+  "totalTimeSeconds": 8584.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "2529",
+    "name": "Orion ",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2529",
+    "name": "Orion ",
+    "winsAgainst": 9
+  },
+  "rival": {
+    "id": "2529",
+    "name": "Orion ",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "2529",
+      "name": "Orion ",
+      "wins": 9,
+      "losses": 2,
+      "totalMatches": 11
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.8333333333333334,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.5789473684210527,
+  "avgMarginOfVictory": 181.9,
+  "globalRank": 52,
+  "roleRank": 28
+}

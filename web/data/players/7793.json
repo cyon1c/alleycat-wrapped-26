@@ -1,0 +1,67 @@
+{
+  "id": "7793",
+  "name": "Jaxx",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 1,
+  "losses": 2,
+  "winRate": 0.3333333333333333,
+  "avgTime": 933.6666666666666,
+  "fastestTime": 532.0,
+  "slowestTime": 1521.0,
+  "totalTimeSeconds": 2801.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "6524",
+    "name": "Lyra",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6524",
+      "name": "Lyra",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 248.0,
+  "globalRank": null,
+  "roleRank": null
+}

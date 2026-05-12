@@ -1,0 +1,81 @@
+{
+  "id": "1128",
+  "name": "Satyr",
+  "role": "bounty",
+  "faction": "Snake eyes",
+  "totalMatches": 9,
+  "wins": 6,
+  "losses": 3,
+  "winRate": 0.6666666666666666,
+  "avgTime": 354.75,
+  "fastestTime": 158.0,
+  "slowestTime": 713.0,
+  "totalTimeSeconds": 2838.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "3578",
+      "name": "Talyn",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6193",
+      "name": "Neos antrax",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8436",
+      "name": "Rusty",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.6666666666666666
+  },
+  "escapeRate": 0.6666666666666666,
+  "avgMarginOfVictory": 754.4,
+  "globalRank": null,
+  "roleRank": null
+}

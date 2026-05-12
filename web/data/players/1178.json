@@ -1,0 +1,81 @@
+{
+  "id": "1178",
+  "name": "sundance kid",
+  "role": "hunter",
+  "faction": "uranium arcadium",
+  "totalMatches": 220,
+  "wins": 148,
+  "losses": 72,
+  "winRate": 0.6727272727272727,
+  "avgTime": 249.76363636363635,
+  "fastestTime": 6.0,
+  "slowestTime": 2579.0,
+  "totalTimeSeconds": 54948.0,
+  "longestWinStreak": 13,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 72,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 11
+  },
+  "prey": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "winsAgainst": 14
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 24
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 14,
+      "losses": 10,
+      "totalMatches": 24
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 11,
+      "losses": 11,
+      "totalMatches": 22
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 10,
+      "losses": 8,
+      "totalMatches": 18
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 5,
+      "losses": 7,
+      "totalMatches": 12
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 4,
+      "losses": 6,
+      "totalMatches": 10
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.7397260273972602,
+    "lateWinRate": 0.6164383561643836
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 339.63513513513516,
+  "globalRank": 7,
+  "roleRank": 3
+}

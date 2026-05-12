@@ -1,0 +1,49 @@
+{
+  "id": "7616",
+  "name": "lennex",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 1,
+  "wins": 0,
+  "losses": 1,
+  "winRate": 0.0,
+  "avgTime": 414.0,
+  "fastestTime": 414.0,
+  "slowestTime": 414.0,
+  "totalTimeSeconds": 414.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "2640",
+    "name": "R3D",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "2640",
+    "name": "R3D",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "2640",
+      "name": "R3D",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

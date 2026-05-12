@@ -1,0 +1,49 @@
+{
+  "id": "5700",
+  "name": "Trip",
+  "role": "bounty",
+  "faction": "uranium arcadium",
+  "totalMatches": 1,
+  "wins": 0,
+  "losses": 1,
+  "winRate": 0.0,
+  "avgTime": 720.0,
+  "fastestTime": 720.0,
+  "slowestTime": 720.0,
+  "totalTimeSeconds": 720.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "5949",
+    "name": "Goldrina",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "5949",
+    "name": "Goldrina",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "5949",
+      "name": "Goldrina",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

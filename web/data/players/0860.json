@@ -1,0 +1,74 @@
+{
+  "id": "0860",
+  "name": "Crow_H",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 1,
+  "losses": 9,
+  "winRate": 0.1,
+  "avgTime": 450.3333333333333,
+  "fastestTime": 284.0,
+  "slowestTime": 634.0,
+  "totalTimeSeconds": 4053.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 7,
+      "totalMatches": 7
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8035",
+      "name": "Bootleg ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 719.0,
+  "globalRank": 136,
+  "roleRank": 61
+}

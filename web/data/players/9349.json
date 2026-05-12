@@ -1,0 +1,81 @@
+{
+  "id": "9349",
+  "name": "Shimmer",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 1,
+  "losses": 5,
+  "winRate": 0.16666666666666666,
+  "avgTime": 539.6666666666666,
+  "fastestTime": 107.0,
+  "slowestTime": 884.0,
+  "totalTimeSeconds": 3238.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "7605",
+    "name": "Kip",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7557",
+      "name": "Ax13",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7605",
+      "name": "Kip",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.16666666666666666,
+  "avgMarginOfVictory": 2245.0,
+  "globalRank": null,
+  "roleRank": null
+}

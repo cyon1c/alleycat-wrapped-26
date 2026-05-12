@@ -1,0 +1,81 @@
+{
+  "id": "0817",
+  "name": "JayKaze",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 38,
+  "wins": 7,
+  "losses": 31,
+  "winRate": 0.18421052631578946,
+  "avgTime": 536.0263157894736,
+  "fastestTime": 158.0,
+  "slowestTime": 1615.0,
+  "totalTimeSeconds": 20369.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 10,
+  "currentStreak": {
+    "type": "loss",
+    "count": 10
+  },
+  "uniqueOpponents": 16,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "3129",
+    "name": "Mousse",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 8,
+      "totalMatches": 9
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 8,
+      "totalMatches": 8
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "3890",
+      "name": "J dubbz",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.08333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 371.42857142857144,
+  "globalRank": 76,
+  "roleRank": 34
+}

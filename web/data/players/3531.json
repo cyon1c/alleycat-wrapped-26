@@ -1,0 +1,81 @@
+{
+  "id": "3531",
+  "name": "Marshall Mackenzie",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 4,
+  "losses": 2,
+  "winRate": 0.6666666666666666,
+  "avgTime": 453.6666666666667,
+  "fastestTime": 326.0,
+  "slowestTime": 553.0,
+  "totalTimeSeconds": 2722.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "3841",
+    "name": "DDR",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "4479",
+    "name": "HecksBug",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3841",
+    "name": "DDR",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3841",
+      "name": "DDR",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4479",
+      "name": "HecksBug",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "6153",
+      "name": "ARK-IV",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8187",
+      "name": "Rascal",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 790.75,
+  "globalRank": null,
+  "roleRank": null
+}

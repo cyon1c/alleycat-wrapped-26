@@ -1,0 +1,81 @@
+{
+  "id": "6862",
+  "name": "Xor0",
+  "role": "hunter",
+  "faction": "Prosperity Crew",
+  "totalMatches": 20,
+  "wins": 9,
+  "losses": 11,
+  "winRate": 0.45,
+  "avgTime": 491.2,
+  "fastestTime": 7.0,
+  "slowestTime": 1607.0,
+  "totalTimeSeconds": 9824.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 16,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "7331",
+    "name": "Side Channel",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "7331",
+      "name": "Side Channel",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "1800",
+      "name": "Pigeon",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2568",
+      "name": "Stylu",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3841",
+      "name": "DDR",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 505.1111111111111,
+  "globalRank": 59,
+  "roleRank": 27
+}

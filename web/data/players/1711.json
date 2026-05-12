@@ -1,0 +1,60 @@
+{
+  "id": "1711",
+  "name": "Blue",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 2,
+  "losses": 1,
+  "winRate": 0.6666666666666666,
+  "avgTime": 552.0,
+  "fastestTime": 338.0,
+  "slowestTime": 928.0,
+  "totalTimeSeconds": 1656.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "8901",
+    "name": "Vell",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8901",
+    "name": "Vell",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 433.5,
+  "globalRank": null,
+  "roleRank": null
+}

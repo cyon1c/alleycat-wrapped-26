@@ -1,0 +1,81 @@
+{
+  "id": "2880",
+  "name": "Victoream",
+  "role": "bounty",
+  "faction": "Albatross",
+  "totalMatches": 11,
+  "wins": 1,
+  "losses": 10,
+  "winRate": 0.09090909090909091,
+  "avgTime": 915.6,
+  "fastestTime": 251.0,
+  "slowestTime": 2182.0,
+  "totalTimeSeconds": 9156.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "7506",
+    "name": "J^2",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3578",
+      "name": "Talyn",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3671",
+      "name": "Hardwire",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.09090909090909091,
+  "avgMarginOfVictory": 351.0,
+  "globalRank": 136,
+  "roleRank": 76
+}

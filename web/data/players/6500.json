@@ -1,0 +1,74 @@
+{
+  "id": "6500",
+  "name": "Nighty",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 432.25,
+  "fastestTime": 193.0,
+  "slowestTime": 621.0,
+  "totalTimeSeconds": 1729.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "2273",
+    "name": "Jack-52",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8901",
+    "name": "Vell",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9591",
+      "name": "Rygel",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 625.0,
+  "globalRank": null,
+  "roleRank": null
+}

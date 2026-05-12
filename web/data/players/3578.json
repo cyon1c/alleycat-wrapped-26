@@ -1,0 +1,81 @@
+{
+  "id": "3578",
+  "name": "Talyn",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 15,
+  "wins": 2,
+  "losses": 13,
+  "winRate": 0.13333333333333333,
+  "avgTime": 869.0666666666667,
+  "fastestTime": 289.0,
+  "slowestTime": 2734.0,
+  "totalTimeSeconds": 13036.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "1128",
+    "name": "Satyr",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "2880",
+    "name": "Victoream",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8035",
+    "name": "Bootleg ",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8035",
+      "name": "Bootleg ",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1128",
+      "name": "Satyr",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1749",
+      "name": "Crow",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1800",
+      "name": "Pigeon",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2880",
+      "name": "Victoream",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.2,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 360.5,
+  "globalRank": 123,
+  "roleRank": 55
+}

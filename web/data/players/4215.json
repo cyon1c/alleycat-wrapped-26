@@ -1,0 +1,49 @@
+{
+  "id": "4215",
+  "name": "Tonix",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 2,
+  "wins": 0,
+  "losses": 2,
+  "winRate": 0.0,
+  "avgTime": 1192.0,
+  "fastestTime": 655.0,
+  "slowestTime": 1729.0,
+  "totalTimeSeconds": 2384.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 1,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

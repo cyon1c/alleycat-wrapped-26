@@ -1,0 +1,81 @@
+{
+  "id": "2568",
+  "name": "Stylu",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 17,
+  "wins": 6,
+  "losses": 11,
+  "winRate": 0.35294117647058826,
+  "avgTime": 462.88235294117646,
+  "fastestTime": 11.0,
+  "slowestTime": 1783.0,
+  "totalTimeSeconds": 7869.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "0312",
+    "name": "Hummingbird",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1178",
+    "name": "sundance kid",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "4261",
+      "name": "The Detective",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.4
+  },
+  "escapeRate": 0.35294117647058826,
+  "avgMarginOfVictory": 200.0,
+  "globalRank": 86,
+  "roleRank": 48
+}

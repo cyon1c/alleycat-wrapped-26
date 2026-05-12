@@ -1,0 +1,81 @@
+{
+  "id": "8606",
+  "name": "Reggie Bloodletter",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 662,
+  "wins": 497,
+  "losses": 165,
+  "winRate": 0.7507552870090635,
+  "avgTime": 258.08396946564886,
+  "fastestTime": 7.0,
+  "slowestTime": 2771.0,
+  "totalTimeSeconds": 169045.0,
+  "longestWinStreak": 24,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 133,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 24
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 33
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 57
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 33,
+      "losses": 24,
+      "totalMatches": 57
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 30,
+      "losses": 13,
+      "totalMatches": 43
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 22,
+      "losses": 16,
+      "totalMatches": 38
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 20,
+      "losses": 4,
+      "totalMatches": 24
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 20,
+      "losses": 2,
+      "totalMatches": 22
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6409090909090909,
+    "lateWinRate": 0.75
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 358.5081632653061,
+  "globalRank": 1,
+  "roleRank": 1
+}

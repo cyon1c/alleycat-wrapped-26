@@ -1,0 +1,67 @@
+{
+  "id": "4398",
+  "name": "Giger",
+  "role": "bounty",
+  "faction": "Pegasus.exe",
+  "totalMatches": 4,
+  "wins": 3,
+  "losses": 1,
+  "winRate": 0.75,
+  "avgTime": 422.25,
+  "fastestTime": 22.0,
+  "slowestTime": 1088.0,
+  "totalTimeSeconds": 1689.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 3,
+  "nemesis": {
+    "id": "4789",
+    "name": "Cerberus",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3518",
+    "name": "Hi-Fi",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4789",
+    "name": "Cerberus",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4789",
+      "name": "Cerberus",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.75,
+  "avgMarginOfVictory": 52.333333333333336,
+  "globalRank": null,
+  "roleRank": null
+}

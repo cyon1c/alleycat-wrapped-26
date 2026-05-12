@@ -1,0 +1,81 @@
+{
+  "id": "9254",
+  "name": "Ky",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 1,
+  "losses": 6,
+  "winRate": 0.14285714285714285,
+  "avgTime": 435.0,
+  "fastestTime": 269.0,
+  "slowestTime": 731.0,
+  "totalTimeSeconds": 3045.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "4321",
+    "name": "Toshi",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4321",
+    "name": "Toshi",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.14285714285714285,
+  "avgMarginOfVictory": 58.0,
+  "globalRank": null,
+  "roleRank": null
+}

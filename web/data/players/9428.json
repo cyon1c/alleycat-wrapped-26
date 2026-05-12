@@ -1,0 +1,77 @@
+{
+  "id": "9428",
+  "name": "zeitgeist",
+  "role": "hunter",
+  "faction": "kaiju",
+  "totalMatches": 9,
+  "wins": 0,
+  "losses": 9,
+  "winRate": 0.0,
+  "avgTime": 887.8888888888889,
+  "fastestTime": 460.0,
+  "slowestTime": 1465.0,
+  "totalTimeSeconds": 7991.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 9,
+  "currentStreak": {
+    "type": "loss",
+    "count": 9
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "0431",
+    "name": "ceph",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "0431",
+    "name": "ceph",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1960",
+      "name": "J-Rock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1128",
+      "name": "Satyr",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

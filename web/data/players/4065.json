@@ -1,0 +1,81 @@
+{
+  "id": "4065",
+  "name": "Moxie-b",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 2,
+  "losses": 9,
+  "winRate": 0.18181818181818182,
+  "avgTime": 780.7272727272727,
+  "fastestTime": 238.0,
+  "slowestTime": 1702.0,
+  "totalTimeSeconds": 8588.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "6230",
+    "name": "Boom-Box",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2529",
+      "name": "Orion ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.18181818181818182,
+  "avgMarginOfVictory": 287.0,
+  "globalRank": 123,
+  "roleRank": 69
+}

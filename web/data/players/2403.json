@@ -1,0 +1,81 @@
+{
+  "id": "2403",
+  "name": "B Panik",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 5,
+  "wins": 2,
+  "losses": 3,
+  "winRate": 0.4,
+  "avgTime": 507.2,
+  "fastestTime": 75.0,
+  "slowestTime": 819.0,
+  "totalTimeSeconds": 2536.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "1928",
+    "name": "Kilunspre",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1928",
+    "name": "Kilunspre",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "1928",
+      "name": "Kilunspre",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5547",
+      "name": "Mika",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "8710",
+      "name": "Winter Spike",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": 0.4,
+  "avgMarginOfVictory": 188.5,
+  "globalRank": null,
+  "roleRank": null
+}

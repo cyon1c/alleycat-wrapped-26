@@ -1,0 +1,74 @@
+{
+  "id": "1378",
+  "name": "Siren",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 2,
+  "losses": 9,
+  "winRate": 0.18181818181818182,
+  "avgTime": 521.8181818181819,
+  "fastestTime": 64.0,
+  "slowestTime": 930.0,
+  "totalTimeSeconds": 5740.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 4,
+      "totalMatches": 5
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9618",
+      "name": "Satyr_1",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.18181818181818182,
+  "avgMarginOfVictory": 435.5,
+  "globalRank": 123,
+  "roleRank": 69
+}

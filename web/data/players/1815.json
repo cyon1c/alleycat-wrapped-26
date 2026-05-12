@@ -1,0 +1,81 @@
+{
+  "id": "1815",
+  "name": "In-Kryptid",
+  "role": "hunter",
+  "faction": "Voidfarer's Guild",
+  "totalMatches": 8,
+  "wins": 2,
+  "losses": 6,
+  "winRate": 0.25,
+  "avgTime": 542.5,
+  "fastestTime": 263.0,
+  "slowestTime": 1229.0,
+  "totalTimeSeconds": 4340.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2642",
+      "name": "Loki",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 387.0,
+  "globalRank": null,
+  "roleRank": null
+}

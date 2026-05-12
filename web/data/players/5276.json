@@ -1,0 +1,56 @@
+{
+  "id": "5276",
+  "name": "Rocky Pasadena",
+  "role": "bounty",
+  "faction": "reboot",
+  "totalMatches": 2,
+  "wins": 0,
+  "losses": 2,
+  "winRate": 0.0,
+  "avgTime": 480.0,
+  "fastestTime": 408.0,
+  "slowestTime": 552.0,
+  "totalTimeSeconds": 960.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

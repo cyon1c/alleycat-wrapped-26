@@ -1,0 +1,81 @@
+{
+  "id": "0171",
+  "name": "Pollux-hunter",
+  "role": "hunter",
+  "faction": "pegasus.exe",
+  "totalMatches": 23,
+  "wins": 13,
+  "losses": 10,
+  "winRate": 0.5652173913043478,
+  "avgTime": 317.1363636363636,
+  "fastestTime": 27.0,
+  "slowestTime": 1158.0,
+  "totalTimeSeconds": 6977.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 8,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "winsAgainst": 5
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 11
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 5,
+      "losses": 6,
+      "totalMatches": 11
+    },
+    {
+      "id": "0362",
+      "name": "bubblez",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "9246",
+      "name": "7imber",
+      "wins": 2,
+      "losses": 1,
+      "totalMatches": 3
+    },
+    {
+      "id": "8187",
+      "name": "Rascal",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "2640",
+      "name": "R3D",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.7142857142857143,
+    "lateWinRate": 0.5714285714285714
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 381.6923076923077,
+  "globalRank": 48,
+  "roleRank": 24
+}

@@ -1,0 +1,81 @@
+{
+  "id": "3120",
+  "name": "Zela-Starlight",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 1,
+  "losses": 7,
+  "winRate": 0.125,
+  "avgTime": 634.625,
+  "fastestTime": 98.0,
+  "slowestTime": 1551.0,
+  "totalTimeSeconds": 5077.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "0339",
+    "name": "Bugg.ie",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "0339",
+      "name": "Bugg.ie",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "4540",
+      "name": "Turb0",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3013",
+      "name": "Ace M",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.125,
+  "avgMarginOfVictory": 98.0,
+  "globalRank": null,
+  "roleRank": null
+}

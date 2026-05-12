@@ -1,0 +1,81 @@
+{
+  "id": "8436",
+  "name": "Rusty",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 47,
+  "wins": 11,
+  "losses": 36,
+  "winRate": 0.23404255319148937,
+  "avgTime": 598.9545454545455,
+  "fastestTime": 57.0,
+  "slowestTime": 3450.0,
+  "totalTimeSeconds": 26354.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 13,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 22,
+  "nemesis": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "lossesTo": 7
+  },
+  "prey": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "6040",
+    "name": "Cheese 🧀 ",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 2,
+      "losses": 7,
+      "totalMatches": 9
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 2,
+      "losses": 3,
+      "totalMatches": 5
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 1,
+      "losses": 3,
+      "totalMatches": 4
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "9890",
+      "name": "malcolm in the middle",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.06666666666666667,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 354.1818181818182,
+  "globalRank": 52,
+  "roleRank": 25
+}

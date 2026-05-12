@@ -1,0 +1,81 @@
+{
+  "id": "9010",
+  "name": "Epsilon",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 6,
+  "wins": 1,
+  "losses": 5,
+  "winRate": 0.16666666666666666,
+  "avgTime": 551.5,
+  "fastestTime": 159.0,
+  "slowestTime": 947.0,
+  "totalTimeSeconds": 3309.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 5,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2368",
+    "name": "Skitz",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2368",
+      "name": "Skitz",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "3518",
+      "name": "Hi-Fi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.16666666666666666,
+  "avgMarginOfVictory": 674.0,
+  "globalRank": null,
+  "roleRank": null
+}

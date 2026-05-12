@@ -1,0 +1,81 @@
+{
+  "id": "8710",
+  "name": "Winter Spike",
+  "role": "hunter",
+  "faction": "Fortume's Favor",
+  "totalMatches": 14,
+  "wins": 3,
+  "losses": 11,
+  "winRate": 0.21428571428571427,
+  "avgTime": 768.0,
+  "fastestTime": 332.0,
+  "slowestTime": 1657.0,
+  "totalTimeSeconds": 10752.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 7,
+  "currentStreak": {
+    "type": "loss",
+    "count": 7
+  },
+  "uniqueOpponents": 10,
+  "nemesis": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "2403",
+    "name": "B Panik",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "0431",
+      "name": "ceph",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2403",
+      "name": "B Panik",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5049",
+      "name": "Striga",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 294.3333333333333,
+  "globalRank": 112,
+  "roleRank": 49
+}

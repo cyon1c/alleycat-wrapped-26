@@ -1,0 +1,81 @@
+{
+  "id": "0177",
+  "name": "Nat-20-hunter",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 9,
+  "wins": 1,
+  "losses": 8,
+  "winRate": 0.1111111111111111,
+  "avgTime": 972.8888888888889,
+  "fastestTime": 237.0,
+  "slowestTime": 2351.0,
+  "totalTimeSeconds": 8756.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3841",
+    "name": "DDR",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "6068",
+    "name": "LT",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3841",
+    "name": "DDR",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "3841",
+      "name": "DDR",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "0864",
+      "name": "Red.AI",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "4842",
+      "name": "s3rv0-ai",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6068",
+      "name": "LT",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 194.0,
+  "globalRank": null,
+  "roleRank": null
+}

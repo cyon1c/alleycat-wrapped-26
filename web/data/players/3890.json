@@ -1,0 +1,81 @@
+{
+  "id": "3890",
+  "name": "J dubbz",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 67,
+  "wins": 16,
+  "losses": 51,
+  "winRate": 0.23880597014925373,
+  "avgTime": 606.3283582089553,
+  "fastestTime": 57.0,
+  "slowestTime": 1557.0,
+  "totalTimeSeconds": 40624.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 12,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 14,
+  "nemesis": {
+    "id": "7536",
+    "name": "Golden",
+    "lossesTo": 29
+  },
+  "prey": {
+    "id": "5635",
+    "name": "Love",
+    "winsAgainst": 4
+  },
+  "rival": {
+    "id": "7536",
+    "name": "Golden",
+    "totalMatches": 33
+  },
+  "topOpponents": [
+    {
+      "id": "7536",
+      "name": "Golden",
+      "wins": 4,
+      "losses": 29,
+      "totalMatches": 33
+    },
+    {
+      "id": "5635",
+      "name": "Love",
+      "wins": 4,
+      "losses": 7,
+      "totalMatches": 11
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 5,
+      "totalMatches": 6
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.13636363636363635,
+    "lateWinRate": 0.36363636363636365
+  },
+  "escapeRate": 0.23880597014925373,
+  "avgMarginOfVictory": 636.25,
+  "globalRank": 40,
+  "roleRank": 18
+}

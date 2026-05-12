@@ -1,0 +1,81 @@
+{
+  "id": "5049",
+  "name": "Striga",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 41,
+  "wins": 15,
+  "losses": 26,
+  "winRate": 0.36585365853658536,
+  "avgTime": 403.8536585365854,
+  "fastestTime": 32.0,
+  "slowestTime": 1272.0,
+  "totalTimeSeconds": 16558.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 3
+  },
+  "uniqueOpponents": 13,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 7
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 15
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 7,
+      "losses": 8,
+      "totalMatches": 15
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 8,
+      "totalMatches": 10
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3076923076923077,
+    "lateWinRate": 0.46153846153846156
+  },
+  "escapeRate": 0.36585365853658536,
+  "avgMarginOfVictory": 349.26666666666665,
+  "globalRank": 43,
+  "roleRank": 21
+}

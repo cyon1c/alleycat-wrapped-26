@@ -1,0 +1,81 @@
+{
+  "id": "3058",
+  "name": "PTOLEMY",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 22,
+  "wins": 4,
+  "losses": 18,
+  "winRate": 0.18181818181818182,
+  "avgTime": 457.45454545454544,
+  "fastestTime": 26.0,
+  "slowestTime": 1464.0,
+  "totalTimeSeconds": 10064.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 4
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 8
+  },
+  "prey": {
+    "id": "0436",
+    "name": "felis stray",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 8
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 8,
+      "totalMatches": 8
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 1,
+      "losses": 7,
+      "totalMatches": 8
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.14285714285714285,
+    "lateWinRate": 0.2857142857142857
+  },
+  "escapeRate": 0.18181818181818182,
+  "avgMarginOfVictory": 230.75,
+  "globalRank": 104,
+  "roleRank": 58
+}

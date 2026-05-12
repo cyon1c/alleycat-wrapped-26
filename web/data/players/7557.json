@@ -1,0 +1,74 @@
+{
+  "id": "7557",
+  "name": "Ax13",
+  "role": "hunter",
+  "faction": "Diatones",
+  "totalMatches": 10,
+  "wins": 2,
+  "losses": 8,
+  "winRate": 0.2,
+  "avgTime": 524.4,
+  "fastestTime": 55.0,
+  "slowestTime": 1760.0,
+  "totalTimeSeconds": 5244.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4620",
+    "name": "g1dg3t",
+    "totalMatches": 7
+  },
+  "topOpponents": [
+    {
+      "id": "4620",
+      "name": "g1dg3t",
+      "wins": 1,
+      "losses": 6,
+      "totalMatches": 7
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9090",
+      "name": "M3M0",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "9349",
+      "name": "Shimmer",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 69.5,
+  "globalRank": 123,
+  "roleRank": 55
+}

@@ -1,0 +1,60 @@
+{
+  "id": "9687",
+  "name": "Rum",
+  "role": "hunter",
+  "faction": "Oricon",
+  "totalMatches": 3,
+  "wins": 2,
+  "losses": 1,
+  "winRate": 0.6666666666666666,
+  "avgTime": 1268.3333333333333,
+  "fastestTime": 420.0,
+  "slowestTime": 2384.0,
+  "totalTimeSeconds": 3805.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "win",
+    "count": 2
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "8901",
+    "name": "Vell",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "0644",
+    "name": "Coyote ",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "0644",
+    "name": "Coyote ",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "0644",
+      "name": "Coyote ",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "8901",
+      "name": "Vell",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 607.0,
+  "globalRank": null,
+  "roleRank": null
+}

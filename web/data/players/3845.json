@@ -1,0 +1,81 @@
+{
+  "id": "3845",
+  "name": "Kitkit",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 1,
+  "losses": 7,
+  "winRate": 0.125,
+  "avgTime": 1291.6666666666667,
+  "fastestTime": 284.0,
+  "slowestTime": 3132.0,
+  "totalTimeSeconds": 7750.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 6
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "4321",
+    "name": "Toshi",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "8436",
+    "name": "Rusty",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "4321",
+    "name": "Toshi",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1995",
+      "name": "Maxx",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.5,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.125,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2266",
+  "name": "Wan Hando",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 2,
+  "losses": 8,
+  "winRate": 0.2,
+  "avgTime": 450.8,
+  "fastestTime": 235.0,
+  "slowestTime": 722.0,
+  "totalTimeSeconds": 4508.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 6,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 5
+  },
+  "prey": {
+    "id": "5499",
+    "name": "haxlotl",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 5
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 5,
+      "totalMatches": 5
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "5499",
+      "name": "haxlotl",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": 0.2,
+  "avgMarginOfVictory": 407.0,
+  "globalRank": 123,
+  "roleRank": 69
+}

@@ -1,0 +1,81 @@
+{
+  "id": "5438",
+  "name": "Doc-Holiday",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 11,
+  "wins": 7,
+  "losses": 4,
+  "winRate": 0.6363636363636364,
+  "avgTime": 342.90909090909093,
+  "fastestTime": 135.0,
+  "slowestTime": 457.0,
+  "totalTimeSeconds": 3772.0,
+  "longestWinStreak": 4,
+  "longestLossStreak": 3,
+  "currentStreak": {
+    "type": "win",
+    "count": 4
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 3
+  },
+  "prey": {
+    "id": "5024",
+    "name": "Lag",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 3
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "5024",
+      "name": "Lag",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "0942",
+      "name": "Rathe ",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "2642",
+      "name": "Loki",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 1.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 463.42857142857144,
+  "globalRank": 76,
+  "roleRank": 34
+}

@@ -1,0 +1,81 @@
+{
+  "id": "6290",
+  "name": "Scrub",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 15,
+  "wins": 4,
+  "losses": 11,
+  "winRate": 0.26666666666666666,
+  "avgTime": 383.06666666666666,
+  "fastestTime": 89.0,
+  "slowestTime": 924.0,
+  "totalTimeSeconds": 5746.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "win",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3823",
+    "name": "T4STY",
+    "winsAgainst": 3
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "3823",
+      "name": "T4STY",
+      "wins": 3,
+      "losses": 1,
+      "totalMatches": 4
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "1178",
+      "name": "sundance kid",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "0312",
+      "name": "Hummingbird",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.4,
+    "lateWinRate": 0.2
+  },
+  "escapeRate": 0.26666666666666666,
+  "avgMarginOfVictory": 751.75,
+  "globalRank": 104,
+  "roleRank": 58
+}

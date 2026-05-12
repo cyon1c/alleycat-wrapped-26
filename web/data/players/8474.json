@@ -1,0 +1,77 @@
+{
+  "id": "8474",
+  "name": "Jzy",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 8,
+  "wins": 0,
+  "losses": 8,
+  "winRate": 0.0,
+  "avgTime": 1128.0,
+  "fastestTime": 468.0,
+  "slowestTime": 2689.0,
+  "totalTimeSeconds": 9024.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 8,
+  "currentStreak": {
+    "type": "loss",
+    "count": 8
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "lossesTo": 2
+  },
+  "prey": null,
+  "rival": {
+    "id": "5222",
+    "name": "circuit mouse",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "1064",
+      "name": "5.c0rp",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "1911",
+      "name": "Crimson",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

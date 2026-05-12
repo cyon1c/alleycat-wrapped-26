@@ -1,0 +1,56 @@
+{
+  "id": "2110",
+  "name": "mad p1xi",
+  "role": "bounty",
+  "faction": "UA",
+  "totalMatches": 2,
+  "wins": 0,
+  "losses": 2,
+  "winRate": 0.0,
+  "avgTime": 1106.0,
+  "fastestTime": 1077.0,
+  "slowestTime": 1135.0,
+  "totalTimeSeconds": 2212.0,
+  "longestWinStreak": 0,
+  "longestLossStreak": 2,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "4321",
+    "name": "Toshi",
+    "lossesTo": 1
+  },
+  "prey": null,
+  "rival": {
+    "id": "4321",
+    "name": "Toshi",
+    "totalMatches": 1
+  },
+  "topOpponents": [
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6230",
+      "name": "Boom-Box",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.0,
+  "avgMarginOfVictory": null,
+  "globalRank": null,
+  "roleRank": null
+}

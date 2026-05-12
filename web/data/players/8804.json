@@ -1,0 +1,81 @@
+{
+  "id": "8804",
+  "name": "Hacter",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 7,
+  "wins": 2,
+  "losses": 5,
+  "winRate": 0.2857142857142857,
+  "avgTime": 1119.5,
+  "fastestTime": 103.0,
+  "slowestTime": 3054.0,
+  "totalTimeSeconds": 6717.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 6,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2273",
+    "name": "Jack-52",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    },
+    {
+      "id": "2270",
+      "name": "the commandant",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "2273",
+      "name": "Jack-52",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 931.0,
+  "globalRank": null,
+  "roleRank": null
+}

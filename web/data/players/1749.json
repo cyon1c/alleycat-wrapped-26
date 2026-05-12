@@ -1,0 +1,81 @@
+{
+  "id": "1749",
+  "name": "Crow",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 13,
+  "wins": 2,
+  "losses": 11,
+  "winRate": 0.15384615384615385,
+  "avgTime": 534.0769230769231,
+  "fastestTime": 231.0,
+  "slowestTime": 1003.0,
+  "totalTimeSeconds": 6943.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 7,
+  "nemesis": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "3578",
+    "name": "Talyn",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 3,
+      "totalMatches": 3
+    },
+    {
+      "id": "5663",
+      "name": "Duckie",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0231",
+      "name": "Creature Comforts",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3578",
+      "name": "Talyn",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.0,
+    "lateWinRate": 0.25
+  },
+  "escapeRate": 0.15384615384615385,
+  "avgMarginOfVictory": 396.5,
+  "globalRank": 123,
+  "roleRank": 69
+}

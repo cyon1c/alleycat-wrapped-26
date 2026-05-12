@@ -1,0 +1,81 @@
+{
+  "id": "6567",
+  "name": "Mikey Miles ",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 38,
+  "wins": 20,
+  "losses": 18,
+  "winRate": 0.5263157894736842,
+  "avgTime": 307.55263157894734,
+  "fastestTime": 84.0,
+  "slowestTime": 521.0,
+  "totalTimeSeconds": 11687.0,
+  "longestWinStreak": 5,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 5
+  },
+  "uniqueOpponents": 17,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 4
+  },
+  "prey": {
+    "id": "0558",
+    "name": "Aria ",
+    "winsAgainst": 6
+  },
+  "rival": {
+    "id": "6735",
+    "name": "Cayde",
+    "totalMatches": 9
+  },
+  "topOpponents": [
+    {
+      "id": "6735",
+      "name": "Cayde",
+      "wins": 6,
+      "losses": 3,
+      "totalMatches": 9
+    },
+    {
+      "id": "0558",
+      "name": "Aria ",
+      "wins": 6,
+      "losses": 0,
+      "totalMatches": 6
+    },
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 4,
+      "totalMatches": 4
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 2,
+      "totalMatches": 3
+    },
+    {
+      "id": "5222",
+      "name": "circuit mouse",
+      "wins": 0,
+      "losses": 2,
+      "totalMatches": 2
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.6666666666666666,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 459.2,
+  "globalRank": 35,
+  "roleRank": 19
+}

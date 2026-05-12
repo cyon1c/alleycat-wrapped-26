@@ -1,0 +1,81 @@
+{
+  "id": "9549",
+  "name": "SPHYNX",
+  "role": "bounty",
+  "faction": "Alleycat Asset Acquisitions",
+  "totalMatches": 14,
+  "wins": 5,
+  "losses": 9,
+  "winRate": 0.35714285714285715,
+  "avgTime": 424.42857142857144,
+  "fastestTime": 160.0,
+  "slowestTime": 1128.0,
+  "totalTimeSeconds": 5942.0,
+  "longestWinStreak": 3,
+  "longestLossStreak": 4,
+  "currentStreak": {
+    "type": "loss",
+    "count": 2
+  },
+  "uniqueOpponents": 9,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 2
+  },
+  "prey": {
+    "id": "2145",
+    "name": "Z-kay",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "totalMatches": 4
+  },
+  "topOpponents": [
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 2,
+      "losses": 2,
+      "totalMatches": 4
+    },
+    {
+      "id": "2145",
+      "name": "Z-kay",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "4321",
+      "name": "Toshi",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "0436",
+      "name": "felis stray",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    },
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.25,
+    "lateWinRate": 0.5
+  },
+  "escapeRate": 0.35714285714285715,
+  "avgMarginOfVictory": 206.8,
+  "globalRank": 95,
+  "roleRank": 53
+}

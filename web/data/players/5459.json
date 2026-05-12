@@ -1,0 +1,74 @@
+{
+  "id": "5459",
+  "name": "Samtron",
+  "role": "hunter",
+  "faction": "",
+  "totalMatches": 10,
+  "wins": 3,
+  "losses": 7,
+  "winRate": 0.3,
+  "avgTime": 719.8,
+  "fastestTime": 446.0,
+  "slowestTime": 1174.0,
+  "totalTimeSeconds": 7198.0,
+  "longestWinStreak": 1,
+  "longestLossStreak": 5,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 4,
+  "nemesis": {
+    "id": "7580",
+    "name": "Real Deal",
+    "lossesTo": 6
+  },
+  "prey": {
+    "id": "1090",
+    "name": "Capt Timmah",
+    "winsAgainst": 1
+  },
+  "rival": {
+    "id": "7580",
+    "name": "Real Deal",
+    "totalMatches": 6
+  },
+  "topOpponents": [
+    {
+      "id": "7580",
+      "name": "Real Deal",
+      "wins": 0,
+      "losses": 6,
+      "totalMatches": 6
+    },
+    {
+      "id": "6040",
+      "name": "Cheese 🧀 ",
+      "wins": 1,
+      "losses": 1,
+      "totalMatches": 2
+    },
+    {
+      "id": "1090",
+      "name": "Capt Timmah",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    },
+    {
+      "id": "8187",
+      "name": "Rascal",
+      "wins": 1,
+      "losses": 0,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 0.3333333333333333,
+    "lateWinRate": 0.3333333333333333
+  },
+  "escapeRate": null,
+  "avgMarginOfVictory": 407.3333333333333,
+  "globalRank": 112,
+  "roleRank": 49
+}

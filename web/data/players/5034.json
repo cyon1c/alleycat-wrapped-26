@@ -1,0 +1,60 @@
+{
+  "id": "5034",
+  "name": "Techno",
+  "role": "bounty",
+  "faction": "",
+  "totalMatches": 3,
+  "wins": 2,
+  "losses": 1,
+  "winRate": 0.6666666666666666,
+  "avgTime": 557.0,
+  "fastestTime": 224.0,
+  "slowestTime": 890.0,
+  "totalTimeSeconds": 1114.0,
+  "longestWinStreak": 2,
+  "longestLossStreak": 1,
+  "currentStreak": {
+    "type": "loss",
+    "count": 1
+  },
+  "uniqueOpponents": 2,
+  "nemesis": {
+    "id": "8606",
+    "name": "Reggie Bloodletter",
+    "lossesTo": 1
+  },
+  "prey": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "winsAgainst": 2
+  },
+  "rival": {
+    "id": "3415",
+    "name": "Hot-Lock",
+    "totalMatches": 2
+  },
+  "topOpponents": [
+    {
+      "id": "3415",
+      "name": "Hot-Lock",
+      "wins": 2,
+      "losses": 0,
+      "totalMatches": 2
+    },
+    {
+      "id": "8606",
+      "name": "Reggie Bloodletter",
+      "wins": 0,
+      "losses": 1,
+      "totalMatches": 1
+    }
+  ],
+  "performanceArc": {
+    "earlyWinRate": 1.0,
+    "lateWinRate": 0.0
+  },
+  "escapeRate": 0.6666666666666666,
+  "avgMarginOfVictory": 71.0,
+  "globalRank": null,
+  "roleRank": null
+}
