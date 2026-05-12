@@ -56,7 +56,7 @@ export default function HomePage() {
 
         {/* Key numbers */}
         <section>
-          <SectionLabel>// EVENT OVERVIEW</SectionLabel>
+          <SectionLabel>{"// EVENT OVERVIEW"}</SectionLabel>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-4">
             <StatCard label="Total Matches" value={formatNumber(g.totalMatches)} accent="cyan" />
             <StatCard label="Active Assets" value={formatNumber(g.totalPlayersActive)} accent="pink" />
@@ -67,7 +67,7 @@ export default function HomePage() {
 
         {/* Hunter vs Bounty */}
         <section>
-          <SectionLabel>// HUNTER VS BOUNTY</SectionLabel>
+          <SectionLabel>{"// HUNTER VS BOUNTY"}</SectionLabel>
 
           {/* Ranked lists */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
@@ -115,7 +115,7 @@ export default function HomePage() {
 
         {/* Leaderboards */}
         <section>
-          <SectionLabel>// LEADERBOARDS</SectionLabel>
+          <SectionLabel>{"// LEADERBOARDS"}</SectionLabel>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
             <LeaderboardCard
               title="Most Unique Opponents"
@@ -165,7 +165,7 @@ export default function HomePage() {
 
         {/* Fastest times */}
         <section>
-          <SectionLabel>// FASTEST REACTION TIMES</SectionLabel>
+          <SectionLabel>{"// FASTEST REACTION TIMES"}</SectionLabel>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
             <div className="card cyber-border p-5">
               <h3 className="font-sub text-sm tracking-widest uppercase text-[var(--text-dim)] mb-4">Top Hunter Times</h3>
@@ -211,7 +211,7 @@ export default function HomePage() {
 
         {/* Closest matches */}
         <section>
-          <SectionLabel>// CLOSEST MATCHES</SectionLabel>
+          <SectionLabel>{"// CLOSEST MATCHES"}</SectionLabel>
           <div className="card cyber-border mt-4 divide-y divide-[var(--border)]">
             {g.top3ClosestMatches.map((match, i) => (
               <div key={match.matchId} className="p-4 flex items-center gap-4 hover:bg-white/[0.02] transition-colors">
@@ -254,7 +254,6 @@ interface RankedPlayer {
 
 function RankedList({ title, players, accent }: { title: string; players: RankedPlayer[]; accent: "cyan" | "pink" }) {
   const accentClass = accent === "cyan" ? "text-[var(--cyan)]" : "text-[var(--pink)]";
-  const borderClass = accent === "cyan" ? "border-[var(--cyan)]/20" : "border-[var(--pink)]/20";
   const barClass = accent === "cyan" ? "bg-[var(--cyan)]" : "bg-[var(--pink)]";
   const maxWins = players[0]?.wins ?? 1;
 

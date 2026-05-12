@@ -23,12 +23,6 @@ export default function LeaderboardCard({ title, entries, accent = "cyan", class
     green: "text-[var(--green)]",
   }[accent];
 
-  const accentBorder = {
-    cyan: "border-[var(--cyan)]/15",
-    pink: "border-[var(--pink)]/15",
-    green: "border-[var(--green)]/15",
-  }[accent];
-
   const podiumColors = [accentText, "text-[var(--text-dim)]", "text-[var(--text-dim)]"];
 
   return (

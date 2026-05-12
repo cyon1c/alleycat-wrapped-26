@@ -14,7 +14,7 @@ export default function PlayersPage() {
     <div className="max-w-6xl mx-auto px-4 py-12">
       <div className="mb-8">
         <h1 className="font-sub text-2xl md:text-3xl text-[var(--cyan)] glow-cyan mb-2">
-          // ASSETS
+          {"// ASSETS"}
         </h1>
         <p className="font-body text-[var(--text-dim)] text-sm">
           {formatNumber(global.totalPlayersActive)} active ·{" "}

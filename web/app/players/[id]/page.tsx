@@ -103,7 +103,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
 
       {/* Core stats */}
       <section className="mb-8">
-        <SectionLabel>// COMBAT RECORD</SectionLabel>
+        <SectionLabel>{"// COMBAT RECORD"}</SectionLabel>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-4">
           <StatCard label="Matches" value={formatNumber(player.totalMatches)} accent={accentColor} />
           <StatCard
@@ -120,7 +120,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
       {/* Vs global comparison */}
       {player.totalMatches >= global.minRankedMatches && (
         <section className="mb-8">
-          <SectionLabel>// VS FIELD AVERAGE</SectionLabel>
+          <SectionLabel>{"// VS FIELD AVERAGE"}</SectionLabel>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-4">
             <ComparisonBar
               label="Win Rate"
@@ -146,7 +146,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
 
       {/* Streaks + Performance */}
       <section className="mb-8">
-        <SectionLabel>// PERFORMANCE</SectionLabel>
+        <SectionLabel>{"// PERFORMANCE"}</SectionLabel>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-4">
           <StatCard label="Best Win Streak" value={player.longestWinStreak} accent="green" />
           <StatCard label="Worst Loss Streak" value={player.longestLossStreak} accent="pink" />
@@ -157,7 +157,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
       {/* Performance arc */}
       {player.performanceArc && (
         <section className="mb-8">
-          <SectionLabel>// PERFORMANCE ARC</SectionLabel>
+          <SectionLabel>{"// PERFORMANCE ARC"}</SectionLabel>
           <div className="card cyber-border p-6 mt-4">
             <p className="font-body text-sm text-[var(--text-dim)] mb-6">
               Did you peak early or finish strong? Early = first half of matches · Late = second half.
@@ -193,7 +193,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
       {/* Nemesis / Prey / Rival */}
       {(player.nemesis || player.prey || player.rival) && (
         <section className="mb-8">
-          <SectionLabel>// RELATIONSHIPS</SectionLabel>
+          <SectionLabel>{"// RELATIONSHIPS"}</SectionLabel>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mt-4">
             {player.nemesis && (
               <RelCard
@@ -232,7 +232,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
       {/* Top opponents */}
       {player.topOpponents.length > 0 && (
         <section className="mb-8">
-          <SectionLabel>// TOP OPPONENTS</SectionLabel>
+          <SectionLabel>{"// TOP OPPONENTS"}</SectionLabel>
           <div className="card cyber-border mt-4 divide-y divide-[var(--border)]">
             <div className="grid grid-cols-4 px-4 py-2 text-xs tracking-widest text-[var(--text-dim)] uppercase">
               <span className="font-alt">Opponent</span>
@@ -271,7 +271,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
 
       {/* Extra stats */}
       <section className="mb-8">
-        <SectionLabel>// EXTRA DATA</SectionLabel>
+        <SectionLabel>{"// EXTRA DATA"}</SectionLabel>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3 mt-4">
           {player.avgMarginOfVictory != null && (
             <StatCard label="Avg Victory Margin" value={formatTime(player.avgMarginOfVictory)} accent={accentColor} />
@@ -288,7 +288,7 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
       {/* Match history */}
       {matches.length > 0 && (
         <section className="mb-8">
-          <SectionLabel>// MATCH HISTORY</SectionLabel>
+          <SectionLabel>{"// MATCH HISTORY"}</SectionLabel>
           <div className="card cyber-border mt-4" style={{ height: "480px", display: "flex", flexDirection: "column" }}>
             {/* Table header */}
             <div className="grid grid-cols-[3rem_1fr_7rem_7rem_4rem] gap-2 px-4 py-3 border-b border-[var(--border)] shrink-0">
